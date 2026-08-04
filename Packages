@@ -1,18 +1,210 @@
-Package: com.sini.airpodscompanion
-Version: 1.5
+Package: com.HBWechatHelper.ailun
+Version: 2.1.2
 Architecture: iphoneos-arm64e
-Maintainer: Ethan Whited
-Installed-Size: 10704
+Maintainer: HuangBai
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: preferenceloader
-Filename: debs/com.sini.airpodscompanion_1.5_iphoneos-arm64e.deb
-Size: 20613668
-MD5sum: c8adc23a6f87b30fc73241e2aded450b
-SHA1: 5b5bc82bd7ee83d8576a3c3b5705514765456765
-SHA256: e102cc9f0c4f30bfd61cdaa3ba9c481fa80367ab2bcd4f34b30054525e5bcc4c
-Section: 越狱插件
-Description: 已修复卡屏的问题，来自季伯腾测试
-Author: Ethan Whited
-Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
-Name: AirpodsCompanion(rootless)
+Depends: mobilesubstrate
+Filename: debs/com.hbwechathelper.ailun_2.1.2_iphoneos-arm64e.deb
+Size: 31035028
+MD5sum: 87442899ba5b7c53c05f50440494b702
+SHA1: 06c419b162e78b2fb048d7dd38dbefd3dd3576b9
+SHA256: e328a7a15ef673bfe65fa34c35db3d6ef1156ff260b9834827cb13cafac55643
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
+Package: com.axs.ios16dao
+Version: 5.2.0-205
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 664
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/A狗动态岛破解版205.deb
+Size: 78328
+MD5sum: d6c8ab29cf4b566451c5deb4f1982523
+SHA1: 4671249bd0defcc1d7cd0d69233ab327c60adfa9
+SHA256: 6d560bb58d1657780214dea49cabdeeeb7a9016b404eaa2526a28205ce900b9b
+Section: 灵动岛
+Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+Name: ios16灵动岛
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
+Package: com.binglan.dynamicfx
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dynamicfx_1.0.4_iphoneos-arm64.deb
+Size: 72502
+MD5sum: d5002f07aa3e3cef51a7fcd35b8fc9d9
+SHA1: 5716480c37aff067f8678c3cd96574e6fa1d3c32
+SHA256: e48e7434eb09c3abed7f39e937359e60ddbf9c5140b390d26cc38a29de029327
+Section: Tweaks
+Description: 人生南北多岐路,同行一程已是难得。
+Author: 冰蓝
+Name: DynamicFX
+
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 7980
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Size: 3734192
+MD5sum: 7df54e357147534e75439a42ae446fe4
+SHA1: 68ab9734753208fbff0c641db873a4596765359d
+SHA256: 3d1d1ceade00603194a4f2a4899936edd9b4206b760f731705725063facb0a77
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+Name: CCPrimeX
+
+Package: com.binglanqjsy.deb
+Version: 4.1.0-end
+Architecture: iphoneos-arm64e
+Maintainer: 冰蓝
+Installed-Size: 2464
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.binglanqjsy.deb_4.1.0-end_iphoneos-arm64e.deb
+Size: 548840
+MD5sum: ee09d55ce87985f8b09c7a3795679ea6
+SHA1: dfc791738dae1c2522f106bbefcb7b9122f963a9
+SHA256: bb77a6128b252de80890bcf27bcc8ebf3a55afd45c105f6fa7613de0d8c1c7c3
+Section: 截图套壳
+Description: 让简单截图，拥有更多可能。
+Author: 冰蓝
+Icon: https://fei-jb.github.io/xiaofeifei/icons/pro.png
+Name: 全局水印Pro
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com <curtinlv@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64-2.deb
+Size: 1367876
+MD5sum: 89e7160219a0160dfc422b29cb0b0db9
+SHA1: fd3d93f30bcf664c47c4c622f81767d93ffe2466
+SHA256: 1a4e0b4beb720e95a4a8670e86c14b3e0b3bb946065e308950676657c53d8af8
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@gmail.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根(rootless)
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
+Package: com.hang.ccbackground
+Version: 1.2-31+debug
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 1092
+Depends: mobilesubstrate
+Filename: debs/com.hang.ccbackground_1.2-31+debug_iphoneos-arm64.deb
+Size: 193148
+MD5sum: 0ed4bc3f0fbe6e966454a5259d478690
+SHA1: c9242f71bb305673694921ac343624d3c350e985
+SHA256: 344d6fc3df719c73b30e22972b5bbb7bf480fc1da62b04337f09e87f10e09c90
+Section: Tweaks
+Description: 控制中心背景
+Author: 航
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Name: 控制中心背景自定义
+
+Package: com.nan.givemedeb
+Version: 0.3.1
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: debs/com.nan.givemedeb_0.3.1_arm64.deb
+Size: 2228
+MD5sum: fa9e17dd7ee653037b52627dd243ff7b
+SHA1: 476f2b824977c64f36e7e124f203fedab46f7d85
+SHA256: aada23ee1fa1a70fd11ea99b8e4ca19b13c8284f71e46b14d2e869573f38e88f
+Section: Addons
+Description: 尝试保存 apt 缓存目录下所有 deb
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Name: Give me deb
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
+
+Package: com.nx.accode
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 204
+Depends: firmware (>= 16.1) | org.swift.libswift (>= 5.0)
+Filename: debs/com.nx.accode_1.0_iphoneos-arm64e.deb
+Size: 19388
+MD5sum: 04ac0b010f91dfa794b69a29b4e7c48b
+SHA1: fc353d0fcdfe2c4df963f0cb657325df4328b48e
+SHA256: fc36618227753688bac3cb33c6ae54847f5dfe233935e82f8beb32ed56b0b3b4
+Section: System
+Description: 使用方法：用终端输入stheno+空格+udid，获取激活码。再下载旧版stheno激活，激活成功 卸载旧版，注销后再下载新版即可。
+Tag: role::hacker
+Author: Crassna
+Name: Stheno激活码生成器
+
+Package: com.nx.stheno
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/c_stheno新版隐根.deb
+Size: 528424
+MD5sum: 5b1e82b5a2ba9b8d007a14b4f70da917
+SHA1: 1420fc72a37b4969e38d517a6b0006a2e6b7a59a
+SHA256: 15de62bac79dc4697dd3bc9ef3e4682fd32c9ade7204d4f016c546eb86b6fc88
+Section: Tweaks
+Description: Medusa,Jump Whenever。
+Author: Crassna
+Icon: https://fei-jb.github.io/xiaofeifei/icons/stheno.png
+Name: Stheno奥利奥分屏
+
+Package: com.sini921.textforsnapper3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: sini921
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3, com.sini.bigshot, byg.iosios.net.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin
+Filename: debs/snapper3 中文美化图标_1.0.2_arm64.deb
+Size: 18920
+MD5sum: a96b226dcef7a85c22de53b8557cde1e
+SHA1: 1c03c90d8589cf68354d89584964a76aefd3b93b
+SHA256: a7d8ad1eae9a04b62494bac3be1e3db12b40a4ad894cfc6a8b25c96401e5b8c3
+Section: 美化插件
+Description: 自用snapper3美化
+Author: sini921
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
+Name: snapper3中文美化图标(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/textforsnapper3/js.json
+
+Package: com.wkk.wechatx
+Version: 1.5-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 2212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.wechatx_1.5-6_arm64.deb
+Size: 482426
+MD5sum: 0fbb4989714f90d585ecfe7956579369
+SHA1: b71563c7cd75895915cf26b8b0942e690b836fab
+SHA256: 1960165796c525360791de55bf2181843ac4b431dae5850ad35b3193e53f996c
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: WeChatX
 

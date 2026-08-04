@@ -1,16 +1,22 @@
-Origin: 果粉热话
-Label: com.guofen
+Origin: 小飞飞源
+Label: 小飞飞源
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm iphoneos-arm64e
+Architectures: iphoneos-arm64e
 Components: main
-Description: 果粉热话专属iOS越狱插件源，汇聚实用工具与个性化优化插件
+Description: 个人越狱源
+Date: Mon, 15 Jun 2026 08:28:40 UTC
+
 MD5Sum:
- $(md5sum Packages | awk '{print $1}') $(wc -c < Packages) Packages
- $(md5sum Packages.bz2 | awk '{print $1}') $(wc -c < Packages.bz2) Packages.bz2
- $(md5sum Packages.gz | awk '{print $1}') $(wc -c < Packages.gz) Packages.gz
-SHA1:
- $(sha1sum Packages | awk '{print $1}') $(wc -c < Packages) Packages
- $(sha1sum Packages.bz2 | awk '{print $1}') $(wc -c < Packages.bz2) Packages.bz2
- $(sha1sum Packages.gz | awk '{print $1}') $(wc -c < Packages.gz) Packages.gz 
+ 93757e7ae98f22f5077470e6d6a1452b 8988 Packages
+ d92468d5c8b4a12fd528ed1510606a80 4275 Packages.gz
+ f375c334fe09d62a3df7c598f7f06944 4405 Packages.zst
+ c9aeaf45fd302e8567465aa901281ef4 3952 Packages.xz
+
+SHA256:
+ 6f56b51e6b851dd1500fad57bfa463402dc8f9eb5d93baaa3095df3d752295ef 8988 Packages
+ bffbff5fc24e220e67c0df7edafbb2eaf53923796bca5b0be679ab66829e95bd 4275 Packages.gz
+ d2f11828b3f081c074760b44c3e55ed22ba6c720b7363d6eef8a365ee7864994 4405 Packages.zst
+ 5d7471a265e9f6deae8aa08bafac24b0a7b06ec42a4979725cf8f612080b8c1e 3952 Packages.xz
+
