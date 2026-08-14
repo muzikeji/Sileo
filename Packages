@@ -1,4 +1,4 @@
-Package: com.mlgm.kayoko
+Package: com.muzi.kayoko
 Version: 4.7.2
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
@@ -6,17 +6,17 @@ Installed-Size: 3156
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: debs/com.mlgm.kayoko_4.7.2_iphoneos-arm64e.deb
-Size: 684028
-MD5sum: f4845984308339f7380b96c7ea93b2d4
-SHA1: 9fd1b548e679109acdd1fc049559e9271099efe4
-SHA256: 7a7c8ee84fb8dfddec719a714c0b7ecfb76930cc1713fa9b5c1ba1e9240795e8
+Filename: debs/com.muzi.kayoko_4.7.2_iphoneos-arm64e.deb
+Size: 683908
+MD5sum: d80b434c835281ec0d5aa2dbeb2377ec
+SHA1: e40c7e68615389989dea386082e1ce6793b04516
+SHA256: 5bc0399650fc1395148dd547f0420bd9dba9ef29ec222f9d028cf967316f148c
 Section: Tweaks
 Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 Name: Kayoko
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.mlgm.kayoko.json
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
 Package: com.sini921.folderpro
 Version: 1.0.1
