@@ -1,22 +1,22 @@
-Origin: 小飞飞源
-Label: 小飞飞源
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
 Description: 个人越狱源
-Date: Fri, 14 Aug 2026 16:58:29 +0000
+Date: Fri, 14 Aug 2026 17:04:24 +0000
 
 MD5Sum:
- 5ff4ec7e3f68a8b0151abcdc9bed51f0 10254 Packages
- 76836b1ac5c338b2191d4a0ae98967db 4673 Packages.gz
- 9f4182813186d71d6378027a09c913ce 4610 Packages.zst
- 4b2052f3baf385a468e0736e734b0618 4304 Packages.xz
+ 0d76ac4bb7095450d8f1185f8839af85 627 Packages
+ cd63c1ae76746e5de1c8bfd6e39bc81f 450 Packages.gz
+ 9efdfb364dfc2537b8c074854f25434d 445 Packages.zst
+ 48a4f97b61d21d1b3f86c65007950a9c 484 Packages.xz
 
 SHA256:
- f3eb61fa57f2ff8fb65fecf4bb22a49c6c7698ab8c693a0689ce71f6bb12af2c 10254 Packages
- e269a8560825baabcb095d8a3843607f60619e9b89a1ebc30e6b4a7b79b6afd8 4673 Packages.gz
- 4f4f41618d4bdd944e41d6a6f9f2f2881aa00d4eac29686a74e93ff2d5ca496b 4610 Packages.zst
- 980ff38e7d7789c0d5115956e45a156e83e12f08512211b34e681975fb5899bf 4304 Packages.xz
+ e2e87271b6275df382c24288a72a32430e15f049d5c8e28f93311d22f467e868 627 Packages
+ 4f30c75c5b27f4973ea152880a0cec5d48c523979072121953216bd4d207baa7 450 Packages.gz
+ 524062dec7329ff22476dc06b1064b03dd3c207ea4117d2cb688aca5a559b76e 445 Packages.zst
+ e4c2c437981aa28c1a7e8df21070fc0dc88caa82fd628d76a01ddbde3e6933a8 484 Packages.xz
 
