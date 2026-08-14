@@ -1,0 +1,58 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "tintColor": "#3478F6",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## Kayoko\n功能丰富的剪贴板管理器。\n\n- 自动保存复制历史\n- 键盘上方快捷粘贴栏\n- 支持文本、图片、富文本\n- 手势唤起粘贴面板\n- 高度自定义的触发方式与外观\n\n基于 Kayoko (OwnGoal Studio 版) 修改，适配 roothide 无根越狱环境。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "信息",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Muzi",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "4.7.2",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 14.0+",
+                    "title": "支持的系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026年08月14日",
+                    "title": "更新日期"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "markdown": "#### 版本: 4.7.2\n- 适配 roothide 无根越狱环境\n- 重新打包发布",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ]
+}
