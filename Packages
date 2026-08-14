@@ -124,14 +124,14 @@ Name: 控制中心背景自定义
 
 Package: com.nan.givemedeb
 Version: 0.3.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: zhaonan
 Depends: coreutils, sed, gawk
-Filename: debs/com.nan.givemedeb_0.3.1_arm64.deb
-Size: 2228
-MD5sum: fa9e17dd7ee653037b52627dd243ff7b
-SHA1: 476f2b824977c64f36e7e124f203fedab46f7d85
-SHA256: aada23ee1fa1a70fd11ea99b8e4ca19b13c8284f71e46b14d2e869573f38e88f
+Filename: debs/com.nan.givemedeb_0.3.1_arm64e.deb
+Size: 2200
+MD5sum: 43dc07ab1f6f1a8fec76cfceab5edd11
+SHA1: f3436a178a710751f3474b4fada8e28e7569f3bb
+SHA256: 897e6a0b7b99e37f848dc68d7737fa07a07aae5ecd6fd577a66e0efd4968aaf0
 Section: Addons
 Description: 尝试保存 apt 缓存目录下所有 deb
 Author: zhaonan <invalidunit@icloud.com>
@@ -172,6 +172,42 @@ Description: Medusa,Jump Whenever。
 Author: Crassna
 Icon: https://fei-jb.github.io/xiaofeifei/icons/stheno.png
 Name: Stheno奥利奥分屏
+
+Package: com.sini.airpodscompanion
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 10704
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Filename: debs/com.sini.airpodscompanion_1.5_iphoneos-arm64e.deb
+Size: 20613668
+MD5sum: c8adc23a6f87b30fc73241e2aded450b
+SHA1: 5b5bc82bd7ee83d8576a3c3b5705514765456765
+SHA256: e102cc9f0c4f30bfd61cdaa3ba9c481fa80367ab2bcd4f34b30054525e5bcc4c
+Section: 越狱插件
+Description: 已修复卡屏的问题，来自季伯腾测试
+Author: Ethan Whited
+Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
+Name: AirpodsCompanion(rootless)
+
+Package: com.sini921.folderpro
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sini921.folderpro_1.0.1_iphoneos-arm64e.deb
+Size: 108598
+MD5sum: fb8e0afcaf7ce3254f245522730e3dfa
+SHA1: 1bf95276d132591a31402c3a8b92d00f9c2857f2
+SHA256: 4c470123daa7a06aa23f83f6516508c7ce18625f9329219c37183644fd1e908c
+Section: 越狱插件
+Description: 文件夹简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
+Name: FolderPro
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.textforsnapper3
 Version: 1.0.2
