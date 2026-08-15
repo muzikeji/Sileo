@@ -28,7 +28,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.7.2",
+                    "text": "4.7.3",
                     "title": "版本"
                 },
                 {
@@ -38,7 +38,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年08月14日",
+                    "text": "2026年08月15日",
                     "title": "更新日期"
                 }
             ]
@@ -48,7 +48,7 @@
             "tabname": "更新日志",
             "views": [
                 {
-                    "markdown": "#### 版本: 4.7.2\n- 适配 roothide 无根越狱环境\n- 重新打包发布",
+                    "markdown": "#### 版本: 4.7.3\n- 更新源地址为 muzikeji.github.io/Sileo\n- 修复设置页底部信息\n\n#### 版本: 4.7.2\n- 适配 roothide 无根越狱环境\n- 重新打包发布",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }

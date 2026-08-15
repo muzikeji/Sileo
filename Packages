@@ -1,16 +1,16 @@
 Package: com.muzi.kayoko
-Version: 4.7.2
+Version: 4.7.3
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 3156
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: debs/com.muzi.kayoko_4.7.2_iphoneos-arm64e.deb
-Size: 683908
-MD5sum: d80b434c835281ec0d5aa2dbeb2377ec
-SHA1: e40c7e68615389989dea386082e1ce6793b04516
-SHA256: 5bc0399650fc1395148dd547f0420bd9dba9ef29ec222f9d028cf967316f148c
+Filename: debs/com.muzi.kayoko_4.7.3_iphoneos-arm64e.deb
+Size: 682164
+MD5sum: f6af19e211bca9a7e29bd7ea9c80c296
+SHA1: 28ea9aa4381372f4fe4aeacba81c3d90061e3bec
+SHA256: 488607db595be3e6667082d5ebc226f2252b06f54fd79538c23914e86e1f1246
 Section: Tweaks
 Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
 Author: Muzi
