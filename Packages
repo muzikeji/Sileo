@@ -19,19 +19,19 @@ Name: Kayoko
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
 Package: com.sini921.folderpro
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 684
+Maintainer: Muzi
+Installed-Size: 1660
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sini921.folderpro_1.0.1_iphoneos-arm64e.deb
-Size: 108598
-MD5sum: fb8e0afcaf7ce3254f245522730e3dfa
-SHA1: 1bf95276d132591a31402c3a8b92d00f9c2857f2
-SHA256: 4c470123daa7a06aa23f83f6516508c7ce18625f9329219c37183644fd1e908c
+Filename: debs/com.sini921.folderpro_1.0.2_iphoneos-arm64e.deb
+Size: 557132
+MD5sum: 4efb1e857419aef43899ba54edf1f26b
+SHA1: fbdcc9498991790306e76433afb51958aad38cde
+SHA256: d7af65a1dca7f9b3502527c9a44203c197d3497fb92730c65f2f2d9df6fddb50
 Section: 越狱插件
 Description: 文件夹简单优化
-Author: SINI
+Author: Muzi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
