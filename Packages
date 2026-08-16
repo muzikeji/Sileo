@@ -147,16 +147,16 @@ Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.reachplayer
-Version: 2.26-4
+Version: 2.26-5
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 3344
 Depends: mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.reachplayer_2.26-4_iphoneos-arm64e.deb
-Size: 2536004
-MD5sum: 8d426593c587b0391125d6ff0f702d4a
-SHA1: 9962f406b02b5162952a9049e3b49c92442a07c4
-SHA256: a6b9445fc917c40c467a3aff28c09558ef36656a7d30a98205b28812f49af774
+Filename: roothide/com.sini921.reachplayer_2.26-5_iphoneos-arm64e.deb
+Size: 2537326
+MD5sum: b85295a886f25b15e5e9aa982cae13d3
+SHA1: 49b8d8e4801a76997ff86c1e06994e6947764525
+SHA256: 4c1c4e504363a09919c7f1f7bdae0cfe01ebfa90c54488a41817f95d6534c5ef
 Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
 Author: ETHN & SINI & 鲨鱼
@@ -257,16 +257,16 @@ Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.reachplayer
-Version: 2.26-4
+Version: 2.26-5
 Architecture: iphoneos-arm64
 Maintainer: Muzi
 Installed-Size: 3344
 Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.reachplayer_2.26-4_iphoneos-arm64.deb
-Size: 2538162
-MD5sum: 4ba7d12c13d3b380438193ee4a3f8a01
-SHA1: f1f30decd91d3c39ec1be1ead455d03a673ca740
-SHA256: d559f3f5198049a8ad359edeaca0a7d431ff790463b4ad565fc0576ca74a3953
+Filename: rootless/com.sini921.reachplayer_2.26-5_iphoneos-arm64.deb
+Size: 2538906
+MD5sum: 784507e31b081a61796ee8b707b5db1d
+SHA1: ec03eba09f1e3bae14201c18c52e699ed5f67c96
+SHA256: 29e9ed770098ee14430c5f67870a471b76967a3f7a36a2b62ca7718a13e7ab3a
 Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
 Author: ETHN & SINI & 鲨鱼
