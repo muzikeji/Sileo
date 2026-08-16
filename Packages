@@ -164,6 +164,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
 Name: ReachPlayer(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
 
+Package: com.sini921.reachplayer
+Version: 2.26-6
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 3348
+Depends: mobilesubstrate, preferenceloader
+Filename: roothide/com.sini921.reachplayer_2.26-6_iphoneos-arm64e.deb
+Size: 2536336
+MD5sum: 051dd8224486e0939d49dadd44087daa
+SHA1: 5914ac8a25f624df46e947aa3e6ef95a10c41cd8
+SHA256: 36f919af33f4423341730ac2340ea3ef0651bd2b1696c44eadb4b6e6af9d3163
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
+Author: ETHN & SINI & 鲨鱼
+Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
+Name: ReachPlayer
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -272,5 +290,23 @@ Description: 在便捷访问模式上方的空白处增加音乐控制器，基�
 Author: ETHN & SINI & 鲨鱼
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
 Name: ReachPlayer(rootless)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
+
+Package: com.sini921.reachplayer
+Version: 2.26-6
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 3348
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini921.reachplayer_2.26-6_iphoneos-arm64.deb
+Size: 2538236
+MD5sum: 1a5a07ec6225ef377645137e028b5b6d
+SHA1: 381a9a1571815d4f78d088ef1968668aa7be2ddd
+SHA256: 91710b63881a1eda548c1a04f637815417ee505fadeb6f9cee6cc8724eddfbb2
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
+Author: ETHN & SINI & 鲨鱼
+Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
+Name: ReachPlayer
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
 
