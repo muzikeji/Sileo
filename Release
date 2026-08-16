@@ -6,18 +6,18 @@ Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
 Description: 个人越狱源
-Date: Sat, 15 Aug 2026 08:16:10 GMT
+Date: Sun, 16 Aug 2026 00:25:40 GMT
 
 MD5Sum:
- a1c6bc64ac1d735cb404037b57335374 1570 Packages
- 95bbcb65905df7cf4eecd4945d0a938d 842 Packages.gz
- 02eba97c213e6cec2c5ba3210a422770 954 Packages.bz2
- 3e702a7c1c910bff95140c96c15c8dc3 848 Packages.xz
- 3d8655dc4cdf2e3c2c91f808a3b8c54e 835 Packages.zst
+ 81e006d2f3a53931cbcffa3e8015d232 2315 Packages
+ f1ef315279ad8e718b4a4f74fc1b90d2 1080 Packages.gz
+ ce6c19c6cc55cf6f81cb37c0d109e971 1229 Packages.bz2
+ 0054dd0cf33af90ea64d178af96a78fe 1072 Packages.xz
+ 0275876dac770c4814a6d7c7c48f1bd9 1110 Packages.zst
 
 SHA256:
- d19b83d4fafab64cb001df057a98d4ba31e3eee367a18cce139e8806728b2b25 1570 Packages
- fb67f444afa7f44731fc911d31bfeb37e08feaf9cfde5f80979d099e59a37273 842 Packages.gz
- 755c80c487546f055b2b8e293b16f13c4a92169f21ed27d01c74e45fb0e81d26 954 Packages.bz2
- 2a360253878466e1a34ab4ea3fdbda591e206e1a5f6f41b8193973e38bf1ca8a 848 Packages.xz
- ea80109f6d6f20256b090abad497955e1526c9dae73356f1fd992ee285ee8de8 835 Packages.zst
+ 97f66af38650168892e0638a10cdcea7f63ed8c6a8906c119e3dd86815e96e3c 2315 Packages
+ 182da965833e421c3218782d409c4ae6c20089b8ca4cefc35bc6a1c37d1ebb5d 1080 Packages.gz
+ 3f8e7a01bea19858ea62883a923b613dc95c11848dfebce2676d5c1bcb56f101 1229 Packages.bz2
+ c400ed44bf228d719a610dede0d4ec15f56180e0c1dcc02e72dfb809bd48223b 1072 Packages.xz
+ f79cd00cf0dd816fd1a06043796b42ce6ccb68d3f5da41e44eaed6859b927dc8 1110 Packages.zst

@@ -18,6 +18,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 Name: Kayoko
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
+Package: com.muzi.mutescheduler
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 440
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/com.muzi.mutescheduler_1.0.1_iphoneos-arm64e.deb
+Size: 59136
+MD5sum: eb41bf22eb6e2deb8d63316077c8b249
+SHA1: 03441259d4f3f9d8126cc698cdec5736446e4838
+SHA256: 57cc97bfd398f67035a640ba1518a4ff1e7fb2103d1c3a0786de1145e8838a1f
+Section: Tweaks
+Description: 定时静音/取消静音插件，可在设置中配置时间、静音模式与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutescheduler.png
+Name: MuteScheduler 定时静音
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
+
 Package: com.sini921.folderpro
 Version: 1.0.3
 Architecture: iphoneos-arm64e
