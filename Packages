@@ -1,3 +1,21 @@
+Package: com.muzi.auth
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 312
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: roothide/com.muzi.auth_1.0.0_iphoneos-arm64e.deb
+Size: 9112
+MD5sum: 3b832225d7c65f112127ade17f05d56a
+SHA1: fe4fafb668275dd06d7748c0d39ff426c085a21f
+SHA256: 063b4d69f0af749292a62480e3d6f33dea87acd838ea55ee29b8e3de8ffbf9e9
+Section: Tweaks
+Description: 通用离线授权插件，为木子源系列插件提供设备绑定授权验证。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/muziauth.png
+Name: MuziAuth 授权
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.auth.json
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -146,6 +164,42 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
+Package: com.sini921.reachplayer
+Version: 2.26-3
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 3344
+Depends: mobilesubstrate, preferenceloader, com.muzi.auth
+Filename: roothide/com.sini921.reachplayer_2.26-3_iphoneos-arm64e.deb
+Size: 2531536
+MD5sum: e752b2e4a7ac8458dc8f7c2637876d3a
+SHA1: be2320c91a4b1170995caa268d45d8c99df7c923
+SHA256: 468e31390b87ba1522a57aa8e6687041bcf1dc9a4928b1bcdddd8b39a6bd18c9
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
+Author: ETHN & SINI & 鲨鱼
+Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
+Name: ReachPlayer
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
+
+Package: com.muzi.auth
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 312
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.auth_1.0.0_iphoneos-arm64.deb
+Size: 10196
+MD5sum: 5d17ff71fa6696bbd49932ec492de9a1
+SHA1: 30c37a4821d1ffb9d1d7ac2289083370760df45a
+SHA256: 76fbd41b27e332023de5eb133def28be64c226ebf690e5dcfa16d45fd85e907d
+Section: Tweaks
+Description: 通用离线授权插件，为木子源系列插件提供设备绑定授权验证。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/muziauth.png
+Name: MuziAuth 授权
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.auth.json
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -237,4 +291,22 @@ Author: Muzi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
+
+Package: com.sini921.reachplayer
+Version: 2.26-3
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 3344
+Depends: mobilesubstrate, preferenceloader, com.muzi.auth
+Filename: rootless/com.sini921.reachplayer_2.26-3_iphoneos-arm64.deb
+Size: 2534020
+MD5sum: a0911f3e658f87c208ec2a29edaeaee6
+SHA1: f3233d0e34304855db063942ea9a9d31a26b80c0
+SHA256: ee6ab8f20d17b038e0e4d32261bca3322e5c753ff197a959608087f320050628
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
+Author: ETHN & SINI & 鲨鱼
+Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
+Name: ReachPlayer
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.sini921.reachplayer.json
 
