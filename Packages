@@ -1,3 +1,21 @@
+Package: com.muzi.dndscheduler
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 440
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: roothide/com.muzi.dndscheduler_1.0.1_iphoneos-arm64e.deb
+Size: 59348
+MD5sum: 397929c241cc1069a7c99eddcfdd4a36
+SHA1: 5edca5b43a647cbd893bf1a4e4010a9bea0a49f1
+SHA256: 748bd079a280eefc544a3bdf1e08831abd4a02e24050dbdb0f0ed70e4d9d8a36
+Section: Tweaks
+Description: 定时开启/关闭勿扰模式插件，可在设置中配置时间、勿扰开关与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/dndscheduler.png
+Name: DNDScheduler 定时勿扰
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.dndscheduler.json
+
 Package: com.muzi.kayoko
 Version: 4.7.2
 Architecture: iphoneos-arm64e
@@ -109,6 +127,24 @@ Author: Muzi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
+
+Package: com.muzi.dndscheduler
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 440
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.dndscheduler_1.0.1_iphoneos-arm64.deb
+Size: 59380
+MD5sum: c0c45646852756d4c3d63ee932a9415b
+SHA1: 4805173a139ca61e993e79c9dff14d6c5ba3fcf2
+SHA256: ea217308b4cab3762df6c2f11149213e83a5ff58ef72d705bcca0a4cca742cb2
+Section: Tweaks
+Description: 定时开启/关闭勿扰模式插件，可在设置中配置时间、勿扰开关与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/dndscheduler.png
+Name: DNDScheduler 定时勿扰
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.dndscheduler.json
 
 Package: com.muzi.kayoko
 Version: 4.7.3
