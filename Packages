@@ -74,6 +74,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutescheduler.png
 Name: MuteScheduler 定时静音
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
 
+Package: com.muzi.scheduler
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: roothide/com.muzi.scheduler_1.0.0_iphoneos-arm64e.deb
+Size: 38048
+MD5sum: 9a0329823c4c6280be5646587145060b
+SHA1: 816189ce31103a68f2d8966c556223d040f932a4
+SHA256: edd0ca83b92a72f9f923bddba7447bdb777f5c227f257c6cd2f8145832678161
+Section: Tweaks
+Description: 定时静音与勿扰调度插件，可在设置中配置时间、任务类型（静音或勿扰）与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
+Name: Scheduler 定时调度
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
+
 Package: com.sini921.folderpro
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -183,6 +201,24 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutescheduler.png
 Name: MuteScheduler 定时静音
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
+
+Package: com.muzi.scheduler
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.scheduler_1.0.0_iphoneos-arm64.deb
+Size: 38088
+MD5sum: f9b973607b0a92e0882169e3006be340
+SHA1: 280098c13bbdd57b9b7a3bcb3a5d1154b92ba289
+SHA256: fd387bd2bca81ad74703460c582011214028ea54bc633d4d56da21974f91e5d2
+Section: Tweaks
+Description: 定时静音与勿扰调度插件，可在设置中配置时间、任务类型（静音或勿扰）与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
+Name: Scheduler 定时调度
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
 
 Package: com.sini921.folderpro
 Version: 1.0.3

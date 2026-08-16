@@ -1,0 +1,58 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "tintColor": "#3478F6",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## Scheduler 定时调度\n定时静音 / 定时勿扰的一体化调度插件。\n\n- 在设置中配置多个定时任务\n- 每个任务可独立选择类型：静音或勿扰\n- 静音：模拟系统静音拨片，全局静音\n- 勿扰：调用系统勿扰接口，与系统状态同步\n- 闹钟式重复周期：每天、工作日、周末或自定义星期\n\n适配 roothide 无根越狱环境。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "信息",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Muzi",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.0",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 14.0+",
+                    "title": "支持的系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026年08月16日",
+                    "title": "更新日期"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "markdown": "#### 版本: 1.0.0\n- 初版发布，支持定时静音与定时勿扰，任务可独立选择类型",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ]
+}
