@@ -3,21 +3,21 @@ Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64e
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 个人越狱源
-Date: Sun, 16 Aug 2026 00:25:40 GMT
+Date: Sun, 16 Aug 2026 01:15:27 GMT
 
 MD5Sum:
- 81e006d2f3a53931cbcffa3e8015d232 2315 Packages
- f1ef315279ad8e718b4a4f74fc1b90d2 1080 Packages.gz
- ce6c19c6cc55cf6f81cb37c0d109e971 1229 Packages.bz2
- 0054dd0cf33af90ea64d178af96a78fe 1072 Packages.xz
- 0275876dac770c4814a6d7c7c48f1bd9 1110 Packages.zst
+ 2ccc759ed93e296fa89e8f81d032a4d4 6857 Packages
+ 3addf4baa9da578c1be33c03a462137b 1801 Packages.gz
+ 2c38b5c2c0521f008b216eabef2135bf 2063 Packages.bz2
+ 4c9d98ae0d0e38e7758b5ce08faea131 1652 Packages.xz
+ 8549281f4f6f8cc9cb177a64e278d383 1794 Packages.zst
 
 SHA256:
- 97f66af38650168892e0638a10cdcea7f63ed8c6a8906c119e3dd86815e96e3c 2315 Packages
- 182da965833e421c3218782d409c4ae6c20089b8ca4cefc35bc6a1c37d1ebb5d 1080 Packages.gz
- 3f8e7a01bea19858ea62883a923b613dc95c11848dfebce2676d5c1bcb56f101 1229 Packages.bz2
- c400ed44bf228d719a610dede0d4ec15f56180e0c1dcc02e72dfb809bd48223b 1072 Packages.xz
- f79cd00cf0dd816fd1a06043796b42ce6ccb68d3f5da41e44eaed6859b927dc8 1110 Packages.zst
+ f13ea09a2d625087205918c00f57850dc156a5ca6b087e51ba2521c1c8d7f1fc 6857 Packages
+ fef8c937f326c568a734fdd6750e75c0ca81e965870f0b379eaa77ab4bd25d17 1801 Packages.gz
+ c761de602d28e4f49257f2c0833564c2bee6d6dc518480f55e6a689ffb15d47d 2063 Packages.bz2
+ 3b1b57ba8e8115aefaa80c3d2e63f78dc4ee6b500c4d451e46f814562497c146 1652 Packages.xz
+ 346ca6fec87edb1a305a7b167b774a505ee507e6883a43db1a1a4daad5e38e2f 1794 Packages.zst
