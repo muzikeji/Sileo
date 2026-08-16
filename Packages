@@ -153,10 +153,10 @@ Maintainer: Muzi
 Installed-Size: 3344
 Depends: mobilesubstrate, preferenceloader
 Filename: roothide/com.sini921.reachplayer_2.26-3_iphoneos-arm64e.deb
-Size: 2535450
-MD5sum: 17b5c5a3436cd8ffa64ed1cc45e71387
-SHA1: 05246468facbfbb79786eb01cebb419e0319e738
-SHA256: cf9d97006eb00bf79f13706a8c56a013170073ae1dd43fef37b4c34beb416162
+Size: 2536414
+MD5sum: e2d9678634626ca2cb129e5169424657
+SHA1: 4d6707098ac4f6130dcbe918eb0f40bec5f64aae
+SHA256: aed9351441fb7b4e9e381c03edc90064a6058c6df0af0e708dbe06856d9ab41c
 Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
 Author: ETHN & SINI & 鲨鱼
@@ -263,10 +263,10 @@ Maintainer: Muzi
 Installed-Size: 3344
 Depends: mobilesubstrate, preferenceloader
 Filename: rootless/com.sini921.reachplayer_2.26-3_iphoneos-arm64.deb
-Size: 2536954
-MD5sum: cbb5d9f6851cbb16ae0c7bcbdc481ad5
-SHA1: 835f98db8f2299bfee191a50f3859ee6cb885e08
-SHA256: 64395ffe77bc818523a5656ce432861332244e5ca4bc9284dab8fd737bc15016
+Size: 2538048
+MD5sum: 726e7cd0fb3e0c72eea1f6c629adb11c
+SHA1: 669da745f1faf94813d944623ab7ed43659cd5c6
+SHA256: 722847d6e3e3678f9a1e56c7792ffcc6375161114ed889a3904e92862a06d4c4
 Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器，基于开源优化编译。
 Author: ETHN & SINI & 鲨鱼
