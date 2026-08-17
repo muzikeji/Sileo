@@ -16,25 +16,6 @@ Icon: https://muzikeji.github.io/Sileo/icons/dndscheduler.png
 Name: DNDScheduler 定时勿扰
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.dndscheduler.json
 
-Package: com.muzi.kayoko
-Version: 4.7.2
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 3156
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: roothide/com.muzi.kayoko_4.7.2_iphoneos-arm64e.deb
-Size: 683908
-MD5sum: d80b434c835281ec0d5aa2dbeb2377ec
-SHA1: e40c7e68615389989dea386082e1ce6793b04516
-SHA256: 5bc0399650fc1395148dd547f0420bd9dba9ef29ec222f9d028cf967316f148c
-Section: Tweaks
-Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
-Name: Kayoko
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
 Package: com.muzi.kayoko
 Version: 4.7.3
@@ -92,41 +73,6 @@ Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
 
-Package: com.sini921.folderpro
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 684
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_1.0.1_iphoneos-arm64e.deb
-Size: 108598
-MD5sum: fb8e0afcaf7ce3254f245522730e3dfa
-SHA1: 1bf95276d132591a31402c3a8b92d00f9c2857f2
-SHA256: 4c470123daa7a06aa23f83f6516508c7ce18625f9329219c37183644fd1e908c
-Section: 越狱插件
-Description: 文件夹简单优化
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
-Name: FolderPro
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
-
-Package: com.sini921.folderpro
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 1660
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_1.0.2_iphoneos-arm64e.deb
-Size: 557132
-MD5sum: 4efb1e857419aef43899ba54edf1f26b
-SHA1: fbdcc9498991790306e76433afb51958aad38cde
-SHA256: d7af65a1dca7f9b3502527c9a44203c197d3497fb92730c65f2f2d9df6fddb50
-Section: 越狱插件
-Description: 文件夹简单优化
-Author: Muzi
-Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
-Name: FolderPro
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
 Package: com.sini921.folderpro
 Version: 1.0.3
@@ -139,7 +85,7 @@ Size: 557060
 MD5sum: 4175fa7de19ccef1f0224d856f85ec3d
 SHA1: 95fb9b8baaffd9b7e7e490e0dcecc83a7c680642
 SHA256: 424414682114560e7be91d7f98e47ccdebc635cb158987e9ff58da132b676e2b
-Section: 越狱插件
+Section: 插件
 Description: 文件夹简单优化
 Author: Muzi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
