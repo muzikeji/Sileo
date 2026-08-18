@@ -1,0 +1,58 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "tintColor": "#3478F6",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## MUtool 多功能工具集\n集定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能于一体的越狱插件。\n\n### 定时任务\n- 按指定时间自动执行「静音 / 取消静音」或「开启勿扰 / 关闭勿扰」\n- 支持每天、工作日、周末、自定义星期重复\n\n### 禁用 SIM\n- 打开指定 App 时自动禁用所选 SIM 卡，退出后自动恢复\n- 支持长按 App 图标快捷菜单一键启用 / 停用\n\n### 充电功能\n- 充电提示音：接入充电器时自动播放所选音频\n- MagSafe 充电动画：接入充电时显示苹果官方充电动画\n\n### 锁屏功能\n- 自动进桌面：面容 / 指纹验证通过后自动进入桌面，支持多种条件排除\n- 通知亮屏：仅白名单 App 的通知可点亮屏幕\n- 清除全部通知：锁屏一键清空全部通知\n- 禁用 / 隐藏：锁屏滑动、媒体控件、快捷操作、Home 条等\n- 双击唤醒屏幕、锁屏界面双击锁屏\n\n适配 rootless 与 roothide 无根越狱环境。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "信息",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Muzi",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.6",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15.0+",
+                    "title": "支持的系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026年08月18日",
+                    "title": "更新日期"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "markdown": "#### 版本: 1.0.6\n- 全新设置界面：渐变 banner、分类入口图标、App 列表图标\n- 锁屏功能合并（自动进桌面 / 禁用 / 隐藏 / 通知亮屏 / 双击操作）\n- 新增粘贴提示禁用独立进程\n- 修复若干设置项开关状态与界面问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ]
+}
