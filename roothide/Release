@@ -6,7 +6,7 @@ Codename: roothide
 Architectures: arm64e
 Components: main
 Description: Muzi Keji Repo
-Date: Thu, 20 Aug 2026 23:10:19 UTC
+Date: Thu, 20 Aug 2026 23:51:29 UTC
 
 MD5Sum:
  f06d8be1c53bf906615b54bd0ac996ca 19803 Packages
@@ -23,11 +23,11 @@ SHA256:
  f21dfe3bf7d691a8cb9f4f8923a489b3cc90f318aea1eb79cbe887f1e058273f 4443 Packages.bz2
 
 MD5Sum:
- 92b2759bf6e69131f78d40af02681194 4566 Packages.gz
+ 3cb285c7eb91b1700bfcb4dca9c37e54 4566 Packages.gz
 SHA1:
- c800443ea3346b5665f428003e91356695d699d1 4566 Packages.gz
+ 3515cfa1fa86e33ff5b9cdabd2cadd06aa1df83a 4566 Packages.gz
 SHA256:
- 8efe8aa0a98111583ebc1162e51713457e612c77efb992aa55c63c90fa9d0030 4566 Packages.gz
+ c2ef50e640193364c4ddba785ac78c413fdf2ccccc243524fd9a760b118249e8 4566 Packages.gz
 
 MD5Sum:
  669ef5da97cabdd54e11f0c00f27cbba 3924 Packages.xz
