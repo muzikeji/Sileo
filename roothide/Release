@@ -1,0 +1,44 @@
+Origin: Muzi Keji
+Label: Muzi Keji Repo
+Suite: roothide
+Version: 1.0
+Codename: roothide
+Architectures: arm64e
+Components: main
+Description: Muzi Keji Repo
+Date: Thu, 20 Aug 2026 23:10:19 UTC
+
+MD5Sum:
+ f06d8be1c53bf906615b54bd0ac996ca 19803 Packages
+SHA1:
+ 6508e7598acfc5d48e53bb43b5cbe8062a621d2f 19803 Packages
+SHA256:
+ f402c4114bc0ad613551bfc686b503a7bcddcf9e553bec3145b5b29f700341e5 19803 Packages
+
+MD5Sum:
+ 781c59a33315979e703298f417a96629 4443 Packages.bz2
+SHA1:
+ 6a3ca67e0f49c9829fd1bec2834873d5ec46d78a 4443 Packages.bz2
+SHA256:
+ f21dfe3bf7d691a8cb9f4f8923a489b3cc90f318aea1eb79cbe887f1e058273f 4443 Packages.bz2
+
+MD5Sum:
+ 92b2759bf6e69131f78d40af02681194 4566 Packages.gz
+SHA1:
+ c800443ea3346b5665f428003e91356695d699d1 4566 Packages.gz
+SHA256:
+ 8efe8aa0a98111583ebc1162e51713457e612c77efb992aa55c63c90fa9d0030 4566 Packages.gz
+
+MD5Sum:
+ 669ef5da97cabdd54e11f0c00f27cbba 3924 Packages.xz
+SHA1:
+ fd221579990fd49991ccc20ccaa10efdad3ca1d3 3924 Packages.xz
+SHA256:
+ 292361c2c2094eacd7d43d69f925a5dac2b7cd6b481f5f0626a4a809897a2304 3924 Packages.xz
+
+MD5Sum:
+ ca2a8892c65c4867112293d630fdafc9 4241 Packages.zst
+SHA1:
+ 67c6fe7b1f6770e598d11f1cf79e0c3f2f532d0b 4241 Packages.zst
+SHA256:
+ 93b6e6f70f9e61693260a87944dba688a106a1663dea9f92a065f4e63782ccc5 4241 Packages.zst
