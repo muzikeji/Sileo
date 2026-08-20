@@ -343,6 +343,22 @@ Author: Muzi
 Name: MUtool(rootless)
 
 Package: com.muzi.mutool
+Version: 1.0.34
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1184
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.0.34_iphoneos-arm64.deb
+Size: 181346
+MD5sum: 86e46cda82b1fa0b33e6a9190e0696c7
+SHA1: 19210b8038160b8e2aed8be985821fc3f4f7ca65
+SHA256: 9a3beab7b5097558a3d3fa76a556c6b014847824462cbcae52a94097e33fd803
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Name: MUtool(rootless)
+
+Package: com.muzi.mutool
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -767,6 +783,22 @@ Size: 177548
 MD5sum: 98e0b0f6159c757d520ab48e8c1c6495
 SHA1: 0b7175160398d0d625a2b6fd6f3493b307a26b6e
 SHA256: 4ca6bc05fa9538cb296139879a265a82bc87e21b02655aa716ea783ca7d55bd3
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Name: MUtool(roothide)
+
+Package: com.muzi.mutool
+Version: 1.0.34
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1184
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.0.34_iphoneos-arm64e.deb
+Size: 177926
+MD5sum: d38152ca6bd811f1d21e752ad2b107e5
+SHA1: 4a55b066a496e68c65fd20f60b2306a715ed0ecc
+SHA256: addc8dfda2ae78e13401eb875ce277aed0626d78b83f9e4971624c116083272a
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
