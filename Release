@@ -2,22 +2,38 @@ Origin: 木子源
 Label: 木子源
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 个人越狱源
-Date: Wed, 26 Aug 2026 15:04:11 GMT
-
+Description: 木子源 - MUtool 及精选插件
+Date: Wed, 26 Aug 2026 23:55:03 UTC
 MD5Sum:
- f624b48dec2ed2123507909b19dce01f 91664 Packages
- 96b5f5cf88ead17e0c1eaff66ef63639 15958 Packages.gz
- 009fe5d351ac65b7940e4530c634280c 13147 Packages.bz2
- c66ea0b1916b5ecf65d3da04a66ff0f3 12776 Packages.xz
- 045f81008ff7873e41870fcc5cdf420f 12713 Packages.zst
-
+ c21ed4c90d7589af04ab00b3881cf9c4 94366 Packages
+SHA1:
+ e4dff05203735776da8ced3e0aa660e528ee262a 94366 Packages
 SHA256:
- 9a958b95ddbb9e922d48aba1f97b9f499d9a12a7a6b14610a81ef086800b1b01 91664 Packages
- de8c99e00f9c0822e957e47dba40326b0ccad9660888de1939ed735e1fc0deb0 15958 Packages.gz
- 5cabb13e37022c54989705dec61a786dcb6981373776d7885ff95a042294eb01 13147 Packages.bz2
- 7a9ce22cce427d69a698b29a6c1ceee99c9e18e2da0a464ab882403756a23bcf 12776 Packages.xz
- a7534acf0e2822e868a20789d6346635828ab3920e6d412544f9136f9f9f0cfd 12713 Packages.zst
+ 94c324c062a9dac9b860a0f7d9a03fec896a6b02e11eb531bd1fe1bb7e0d4705 94366 Packages
+MD5Sum:
+ 0a1d980f58f2603749b1594fd7bb763d 13331 Packages.bz2
+SHA1:
+ 4718eb5e34234acda7e076f90f18557caec231c7 13331 Packages.bz2
+SHA256:
+ a5746056661269a6ac5ff021777726fffe14774d1fcecc715f4d7c474a40a8fb 13331 Packages.bz2
+MD5Sum:
+ 19d39d5a1d8f6935f1f0c868d9875b7d 16550 Packages.gz
+SHA1:
+ 892b066dccd50c821bbf83c236d26ff1f55941fb 16550 Packages.gz
+SHA256:
+ 00383e1c6556f23283dd3c1765d6e9c5ee111b3529a4685fb10e5d3449f7b6da 16550 Packages.gz
+MD5Sum:
+ 93b4889f53421a320e96c59109371c74 12984 Packages.xz
+SHA1:
+ 1fc3d133e72d76f8680a6fc9fd5f1b74d02d6d8d 12984 Packages.xz
+SHA256:
+ 06a79efa527512a376e8f957fa76d32266b7e9372942bc9639fd8ef8733dd14c 12984 Packages.xz
+MD5Sum:
+ 6d30a263f77b198be94071f03b4cd45a 14174 Packages.zst
+SHA1:
+ f780f0d510e7ff2e2972119519f7b8d33a6bd493 14174 Packages.zst
+SHA256:
+ 09c593da30ce9ed8b1e5e8038aaa11370ccd882089865d32b7929321227c7566 14174 Packages.zst
