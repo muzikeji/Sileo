@@ -1013,6 +1013,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.0.79
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1832
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.0.79_iphoneos-arm64.deb
+Size: 247158
+MD5sum: 85d2f7708c5849cd47b3ae8f3a19b848
+SHA1: 55b86abfd5d37c24af40d545adc06afc6aec659b
+SHA256: 10b3c0e7147f75c0871082ecdbd83247f79085fc6971f6ebe8757137d34a04e3
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -2082,6 +2100,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.0.79
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1832
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.0.79_iphoneos-arm64e.deb
+Size: 244306
+MD5sum: 0a0831c70a75b11cd4e35636453ddf3b
+SHA1: 5680f43ba0e66c4ecffae02f468d658f8c52f1af
+SHA256: 7a1529a8bc3629a6be8a0daf4f1740373dec079285b38c6a24d6cbf61429fc4e
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64e
@@ -2135,6 +2171,7 @@ Author: Muzi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
 Name: FolderPro
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
+
 
 
 
