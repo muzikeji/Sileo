@@ -1301,6 +1301,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1864
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.1.6_iphoneos-arm64.deb
+Size: 260420
+MD5sum: 65dbe2aab3a0ce8aaa1cface0f2b624a
+SHA1: cc2f48a595b0321dbe2c94aac3a8b462e8feabad
+SHA256: 5bffdf134280e87c79695c2903ca6a8eb9e09d31a55499744f46b085737026f7
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(rootless)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -2651,6 +2669,24 @@ Size: 256308
 MD5sum: d92edced5448d8ed045e669e966d093a
 SHA1: 7b75cbb466f19acb84f665014a3be0e4ed66d043
 SHA256: e1293484923f76426d671739f0f3e2730f4df3f25e7e5ea5c575a1fe53a70eca
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(roothide)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Version: 1.1.6
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1864
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.1.6_iphoneos-arm64e.deb
+Size: 256650
+MD5sum: 4576203d9fb82491df698cbc040c3adb
+SHA1: c6da344671902f9a639d459756e8ffe448bb2b36
+SHA256: 1216e48d13346a936e9e39fe549771818c2b2509bf80566491fd9a76184209db
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
