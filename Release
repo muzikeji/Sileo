@@ -6,35 +6,35 @@ Codename: stable
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 木子源 - MUtool 及精选插件
-Date: Sat, 29 Aug 2026 14:24:28 UTC
+Date: Sat, 29 Aug 2026 14:49:47 UTC
 
 MD5Sum:
- 489013407b9d77c6cbacdb1b0912661f 124380 Packages
+ 4803ed98ca319a330ea8f7026084b7bc 125866 Packages
 SHA1:
- 716e74a50339dcd60ba2c00bd198d76608669b17 124380 Packages
+ 45a639c8684c5946696692054a65cca64331251c 125866 Packages
 SHA256:
- 2f377e089fcfc27bc204aa2d3dceacb65cedb3a29513af6bd61cb04c4b0fa4a5 124380 Packages
+ a204a962bbbbdb8157ce71ad887fe24df9d4a34d7d865eb0b3ea138fec8631b2 125866 Packages
 MD5Sum:
- ae82537e77797f8fd9c21e43f596c40c 16887 Packages.bz2
+ edf7454b233a043be7af92c885d823b7 17062 Packages.bz2
 SHA1:
- 85b146fe8a41e8e154705499445cde97d7fb8b9e 16887 Packages.bz2
+ 5385ae6bd4399638e87cc2f24ff15cde10795293 17062 Packages.bz2
 SHA256:
- fc5de7d8b7713d4e6b5e9ed9e8b1ddb4de20f350ec274c705af5cce605536a86 16887 Packages.bz2
+ 1a1c52b3391cc6bd8aea7bbb3a6382592c07f89ff9215a547800c1cfc593f7fc 17062 Packages.bz2
 MD5Sum:
- ddec6976a17f3cdecb9aa8e62b7a28f6 20900 Packages.gz
+ ba1c8efde8164ac2e1b554fdd4189c1c 21106 Packages.gz
 SHA1:
- 817fade5fcba9fa2700417573b260def07e189fc 20900 Packages.gz
+ 24e70be2ffdbcc8b1a342c633823acba09b5714a 21106 Packages.gz
 SHA256:
- be0b9862d3d129ee5185d7d0d4373dcc2fdc1a6a8f17857c51ab1f207f73aa94 20900 Packages.gz
+ cfa8ea395510dfecb60362803835e2c48f9d844bc2e2255a6d05c3a8265180b2 21106 Packages.gz
 MD5Sum:
- 7ec166953976f75937814bc8f2e38e67 16588 Packages.xz
+ 9722501ca7eefcd30fc18d45acba3261 16752 Packages.xz
 SHA1:
- 10fdfaad1fef87f17dc9f261ae0790b361311b12 16588 Packages.xz
+ f3353fddade2439616dc4fef123cc6ecf0f3c147 16752 Packages.xz
 SHA256:
- bdc59d882d36ccc099830730dc15ae831ba8736c3522e0ca4872874d688b57e3 16588 Packages.xz
+ b5b27a9f21b0440b0ee81044c28c267839b54b1b760f2faae3ece126cf3f47a5 16752 Packages.xz
 MD5Sum:
- 40d830bdf62ad315a56cc76401941c70 18194 Packages.zst
+ e3f31dade2261fc5a3b4546ac5d4c9ab 18397 Packages.zst
 SHA1:
- 07116b60c78299cc0cabe1ee2de37a628210318e 18194 Packages.zst
+ 96e65ddb6ba8940cdcb0f4c80f5a568fa326944b 18397 Packages.zst
 SHA256:
- 504c3a1ac9dd6f2cea8704e1106de4d02bf9591c717701cbe3a08ab6dd5226ba 18194 Packages.zst
+ 41bec01bc6b8ec65e754d669429efc580839aa25dc1fffc619ac8b73d705eaf7 18397 Packages.zst
