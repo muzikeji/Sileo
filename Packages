@@ -68,7 +68,7 @@ SHA256: 32792705f2122e12507925ffc0ecf197d4c3e492ebe92e6a0de612a4acabcac0
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.15
@@ -84,7 +84,7 @@ SHA256: f53e1a867721ebbac44cce55517dcc10d26364c84f5f36f29b248d0b8a85c315
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.16
@@ -100,7 +100,7 @@ SHA256: b6ac95a3aa7ad509f74e38086052c72f9ec5bcaec790f8d9a227d23585de94d2
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.17
@@ -116,7 +116,7 @@ SHA256: 9ec3add174eecb562755242d4c8796fb4ecf97ef4ed13b2e52f8417007d20f27
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.19
@@ -132,7 +132,7 @@ SHA256: b533ee6ec17a8b0bfd3187b5dc76ad4cf57fc88be1e548d4a5e741810ce4178e
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.20
@@ -148,7 +148,7 @@ SHA256: ba5c16e9ceaa1e935c8d37abb5a0be85ec29e8dcaf31c7dce61035ef7ee32087
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.21
@@ -164,7 +164,7 @@ SHA256: 60c7fa9f9b4078c6997d4b847e3f30d097fae8de1e6b264de6d08c4508d6183e
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.22
@@ -180,7 +180,7 @@ SHA256: 577a2e9bdf61182f6cb349098cee9145c6968ccb7085ef69e8348c39beaba376
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.23
@@ -196,7 +196,7 @@ SHA256: 740055665c2f19710f585ff6402c843c6e54b85e90fdf9e973f4beada38049eb
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.24
@@ -212,7 +212,7 @@ SHA256: ea8b1933b05013707dfef2d0b39bf2c7c3a329a8b400a448c948ea54b93ff3e9
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.25
@@ -228,7 +228,7 @@ SHA256: 7c774c7b41dbda60f252f2ef67c26d0422fc2a72a53f0ed14416de9b6c8ee877
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.26
@@ -244,7 +244,7 @@ SHA256: d22ace810337fbf6e5381b2b746a901624d0184898ea15cec964395a94ec82c8
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.27
@@ -260,7 +260,7 @@ SHA256: 26ebb8177f5f03bb4a0f60a343ea6e3d946a48df4ef8bd6436fd937e233376e1
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.28
@@ -276,7 +276,7 @@ SHA256: 9f39541968120e4056fb216b662be52ead2fa0766a99825726dd58683fb7e6c4
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.29
@@ -292,7 +292,7 @@ SHA256: 7c19ae7e891abaae14fd1d9e4a70314483d9954fd37c2c539cd10e5841b7ebe0
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.30
@@ -308,7 +308,7 @@ SHA256: 4648ad8d596612d23232f89f650b3e42522acd24935f9bf62f0c2109671935ce
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.32
@@ -324,7 +324,7 @@ SHA256: 6fe4d16487d48e554d63403e5a8d11b1d98b5e464f5f114528a80be69d2b9aec
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.33
@@ -340,7 +340,7 @@ SHA256: a43dd716c565069b18f6e22a64657f5d63e06a9b1d891b57abd987485209289b
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.34
@@ -356,7 +356,7 @@ SHA256: 9a3beab7b5097558a3d3fa76a556c6b014847824462cbcae52a94097e33fd803
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.35
@@ -372,7 +372,7 @@ SHA256: c04d659fa49d78843d8bc0b8973c463cb2ebefd1077fd2f8a78777c2597a51ab
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.36
@@ -388,7 +388,7 @@ SHA256: 18758ea91d8b6306c013aefcff39e2dd3dfc6f09f5ed36076bef6c33514f8521
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.37
@@ -404,7 +404,7 @@ SHA256: 0eb5b3577e75f0b1f3bc41f1b1923f47cd03def143f53b6c48fd428d8bec49c7
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.38
@@ -421,7 +421,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.39
@@ -438,7 +438,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -456,7 +456,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -474,7 +474,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -492,7 +492,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -510,7 +510,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -528,7 +528,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -546,7 +546,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -564,7 +564,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -582,7 +582,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -600,7 +600,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -618,7 +618,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -636,7 +636,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -654,7 +654,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -672,7 +672,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -690,7 +690,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -708,7 +708,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -726,7 +726,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -743,7 +743,7 @@ SHA256: e216503cbe08407d13d1e15551492d327997249ac8c2f42f428c6460b43b5aac
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.62
@@ -760,7 +760,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -778,7 +778,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -796,7 +796,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -814,7 +814,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -832,7 +832,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -849,7 +849,7 @@ SHA256: a784eae9d7064bf01e6c42ca606de52e570fcbefd4954187a39d8486a9c3750a
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(rootless)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.70
@@ -866,7 +866,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -884,7 +884,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -902,7 +902,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -920,7 +920,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -938,7 +938,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -956,7 +956,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -974,7 +974,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -992,7 +992,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1010,7 +1010,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1028,7 +1028,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1046,7 +1046,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1064,7 +1064,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1082,7 +1082,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1100,7 +1100,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1118,7 +1118,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1136,7 +1136,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1154,7 +1154,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1172,7 +1172,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1190,7 +1190,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1208,7 +1208,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1226,7 +1226,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1244,7 +1244,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1262,7 +1262,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1280,7 +1280,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1298,7 +1298,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1316,7 +1316,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1334,7 +1334,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1352,7 +1352,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1370,7 +1370,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1388,7 +1388,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1406,7 +1406,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1424,7 +1424,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1442,7 +1442,25 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1880
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.3.1_iphoneos-arm64.deb
+Size: 262780
+MD5sum: 9976068292525305ae2cb04a5a44ad2b
+SHA1: 3fa75f2f71fd0489d859f99b7b49696ac6e8e81d
+SHA256: 7c2dfb9fb9d5a2512cf23f0e294d016d8f78e011fa8a1049978a26c481d47a10
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.reachplayer
@@ -1569,7 +1587,7 @@ SHA256: 1b75c8b2788a07799375c351462ef0d477acf9bc3059df0cee1954d16595b5be
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.15
@@ -1585,7 +1603,7 @@ SHA256: 68a19dd85515278a6286f79edfb56de17c1ba5b2b33e212814d05fef61adf1b4
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.16
@@ -1601,7 +1619,7 @@ SHA256: c35c60256d8fccd4d9c0e37c64fe1c9b2c48bbf7c3c2d480818d6cab56e42c0a
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.17
@@ -1617,7 +1635,7 @@ SHA256: 3a7655327c02a80e95d1bb3478a7de2c9e0789e5932d329f469259d68a449cc5
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.19
@@ -1633,7 +1651,7 @@ SHA256: e63ae7c67096eb12adee088b8f8c90de643031b05d2dbb408aabaa10bd943241
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.20
@@ -1649,7 +1667,7 @@ SHA256: 50cab920d9f5c3b67332327a696513f5c5d3fd727c125aa87cf0a61ebce14f90
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.21
@@ -1665,7 +1683,7 @@ SHA256: 976506ff87b9c7f24f9a42e4619dfeedf01185fe5d1e1c583711c1c70acd7bb7
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.22
@@ -1681,7 +1699,7 @@ SHA256: 1325bb0f6b825619d097d8aa24c628daba4eb19121671f447bed67c74167df18
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.23
@@ -1697,7 +1715,7 @@ SHA256: 61b34a0541461f754ac95177c655c45f4151adf58052c07a590d61bc640c672f
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.24
@@ -1713,7 +1731,7 @@ SHA256: 20479ade27d4c38b368bf179c25adf22dadfca9c934f2915b587f39909a8efcb
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.25
@@ -1729,7 +1747,7 @@ SHA256: 463a3a791d52a517fbf6be7cf605cc08c4723c3dc4fb082935ddfaf1207a2992
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.26
@@ -1745,7 +1763,7 @@ SHA256: d4d4f8f1ac7bcd058903f49b3f81921a15cf77330920399bc1c0816d723f8a78
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.27
@@ -1761,7 +1779,7 @@ SHA256: 637ffcf5eab3b96b39405782f21e0ac4fff25808dcb79e43703a141a35e8fb92
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.28
@@ -1777,7 +1795,7 @@ SHA256: 44f729634f2c43bb305b06867ea14ff5e66bff3e195d0546a2fbdfa9c14afa02
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.29
@@ -1793,7 +1811,7 @@ SHA256: 48cc8d3a8c3b2d0149e9b8fabb0e8106a62450e05fa5a02ffc23d196fe1f34b0
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.30
@@ -1809,7 +1827,7 @@ SHA256: 243ad7c18066730e2d1a952a367afe303c07617357e95c7b42186ffceef70254
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.32
@@ -1825,7 +1843,7 @@ SHA256: 56258090c22b33f3c539b86cd597ddc36c913fe8474903be3fc2668582812ac6
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.33
@@ -1841,7 +1859,7 @@ SHA256: 4ca6bc05fa9538cb296139879a265a82bc87e21b02655aa716ea783ca7d55bd3
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.34
@@ -1857,7 +1875,7 @@ SHA256: addc8dfda2ae78e13401eb875ce277aed0626d78b83f9e4971624c116083272a
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.35
@@ -1873,7 +1891,7 @@ SHA256: ecaf22ac9c0a6725ba059da7ae4041a93007547b09f395c6f7b977e06ab8ae0c
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.36
@@ -1889,7 +1907,7 @@ SHA256: 4a77d0482a18bceebd3301df8b167277f53e9f991c105543b8ba9b330617f53a
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.37
@@ -1905,7 +1923,7 @@ SHA256: 0e9c34ca24818951bb9a44bf3c36de3e43a781f6ab7174d6f0c399245cb7c625
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.38
@@ -1922,7 +1940,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.39
@@ -1939,7 +1957,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1957,7 +1975,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1975,7 +1993,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -1993,7 +2011,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2011,7 +2029,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2029,7 +2047,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2047,7 +2065,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2065,7 +2083,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2083,7 +2101,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2101,7 +2119,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2119,7 +2137,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2137,7 +2155,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2155,7 +2173,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2173,7 +2191,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2191,7 +2209,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2209,7 +2227,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2227,7 +2245,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2244,7 +2262,7 @@ SHA256: fbbf5f35c95f2677a620ae01908e1ef475d087216ed1b76d09ac59d33cb00fec
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.62
@@ -2261,7 +2279,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2279,7 +2297,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2297,7 +2315,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2315,7 +2333,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2333,7 +2351,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2350,7 +2368,7 @@ SHA256: 3fa5528d4c65bc61a6d157274d75e181697b9877651816f9bdd76392c40df5eb
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
-Name: MUtool(roothide)
+Name: MUtool
 
 Package: com.muzi.mutool
 Version: 1.0.70
@@ -2367,7 +2385,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2385,7 +2403,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2403,7 +2421,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2421,7 +2439,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2439,7 +2457,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2457,7 +2475,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2475,7 +2493,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2493,7 +2511,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2511,7 +2529,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2529,7 +2547,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2547,7 +2565,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2565,7 +2583,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2583,7 +2601,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2601,7 +2619,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2619,7 +2637,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2637,7 +2655,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2655,7 +2673,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2673,7 +2691,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2691,7 +2709,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2709,7 +2727,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2727,7 +2745,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2745,7 +2763,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2763,7 +2781,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2781,7 +2799,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2799,7 +2817,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2817,7 +2835,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2835,7 +2853,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2853,7 +2871,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2871,7 +2889,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2889,7 +2907,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2907,7 +2925,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2925,7 +2943,7 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
@@ -2943,7 +2961,25 @@ Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(roothide)
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1880
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.3.1_iphoneos-arm64e.deb
+Size: 260734
+MD5sum: 480d78149f7590510ab8f6acb5a46c4c
+SHA1: 0a14a55d2d61ebc39572793dc0393705d35c57f8
+SHA256: f0920139099e88634b7a413eae803c7fc975d9589620dac1ab9745271da1f134
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.reachplayer
