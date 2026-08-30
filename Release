@@ -1,40 +1,29 @@
-Origin: 木子源
-Label: 木子源
+Origin: muzikeji
+Label: Muzi Test
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 木子源 - MUtool 及精选插件
-Date: Sat, 29 Aug 2026 23:38:43 UTC
-
+Description: Muzi's tweak repository
+Date: Sun, 30 Aug 2026 00:11:12 GMT
 MD5Sum:
- 614f4cc04841bc1962f1926834affe90 128838 Packages
-SHA1:
- e50405af957ea0d486d06a31763eba52cec0e1d6 128838 Packages
+ eb77a3134b73189bbc4ee051dd45ac03 130324 Packages
 SHA256:
- c2504c198fb46fb514b146c677682a713c19316d0840635550ab3ecc699ce9fc 128838 Packages
+ a739149b6aa49b9a852cbc6923ed50a33411b8bbfe81bd62b3736edf69927442 130324 Packages
 MD5Sum:
- e5303123e983e12ed7feea10bceb9056 17398 Packages.bz2
-SHA1:
- 20c09b0d30724cf4c812a821d6e55d21b7a71aad 17398 Packages.bz2
+ 51b688577270106f2ddfde747d63603a 17548 Packages.bz2
 SHA256:
- a924278f5d542eb9e2169757a65455295923be2ff0174509bf26497e0839630b 17398 Packages.bz2
+ 22c5a574b09560a716a88504b096c64b6eb628d16cea72c2a9af9bd03a4c6685 17548 Packages.bz2
 MD5Sum:
- 2563a94cf9e1ed3d6a356f9c6fa74926 21524 Packages.gz
-SHA1:
- 6b92b89991acd524d5996ed85f73a867f78f50bc 21524 Packages.gz
+ 22e1805a53e2334387d22aa079b483bd 21740 Packages.gz
 SHA256:
- 667b48fa59c3d948e63acb1b9fd7832a6b3c7f3c81c4e7ae5fbb082ff8dd9c45 21524 Packages.gz
+ 683983fa829715870e0ca1a477084712f44ef95c649c165a87c4fb05c4a96075 21740 Packages.gz
 MD5Sum:
- 9e55529e18da5327f5188abc3cd588ad 17088 Packages.xz
-SHA1:
- 76856d106959583971d2ed3e8e2a6770ffe462cd 17088 Packages.xz
+ ab73bf8fa7673f162106529bd65795ca 17252 Packages.xz
 SHA256:
- 7a8591a39b6b416fc4057a53204224d25f00478f3b89c379c5003b1860faac39 17088 Packages.xz
+ 9b519c9ba0ea8ded3d52c987e3dd1caa18dbdcac06e276dd16d78271a93da22e 17252 Packages.xz
 MD5Sum:
- 9aa9689fcec26377e5e8e215e829f6d3 18801 Packages.zst
-SHA1:
- d268956c3e9b33626e1c24d2f60ad689a906277c 18801 Packages.zst
+ 84a843e20bbc656e32931579df24f766 18987 Packages.zst
 SHA256:
- d511a051290e1b8126957c3f5865646c07fd3c374d0e55eb5d7fa0ff255456d6 18801 Packages.zst
+ b2d1f8549930e4151c5874a0cfc4aec21cf4946cfd78c99e1c3b8637988b6aa8 18987 Packages.zst
