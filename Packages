@@ -90,6 +90,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1896
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.4.5_iphoneos-arm64.deb
+Size: 267522
+MD5sum: feb6cb9a3f9ec268d9121742b8bb922f
+SHA1: c36b9c399c435f7399e551707a979cae5c46c8f9
+SHA256: 0914bfb84bafa6b4a95fae59a3beb4cdbee29a86f05e99a6c4b7e8f3eb02bf73
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -105,7 +123,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer
+Name: ReachPlayer(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.scheduler
@@ -236,6 +254,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.4.5
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1896
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.4.5_iphoneos-arm64e.deb
+Size: 263414
+MD5sum: 71eed4d52516138b5e3fa562217e734e
+SHA1: 0d10bec001b28c17b52a3602876ec5782b94e4d8
+SHA256: e71c56dd00d37feee3f9340e5e4c0a74c98f0291c015b0262f20357c16aa0e43
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64e
@@ -251,7 +287,7 @@ Section: Tweaks
 Description: 在便捷访问模式上方的空白处增加音乐控制器。
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer
+Name: ReachPlayer(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
 
 Package: com.muzi.scheduler
