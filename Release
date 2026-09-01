@@ -1,12 +1,12 @@
-Origin: muzikeji
-Label: Muzi Test
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi's tweak repository
-Date: Tue, 01 Sep 2026 01:51:41 GMT
+Description: 木子源越狱软件源
+Date: Tue, 01 Sep 2026 02:04:11 GMT
 MD5Sum:
  97b1c6ee447013b2d472538140730bcf    17924 Packages
  40f970e56e413eda9cfbf481fa92fefc     3887 Packages.bz2
