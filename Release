@@ -6,16 +6,16 @@ Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Muzi's tweak repository
-Date: Tue, 01 Sep 2026 00:01:20 GMT
+Date: Tue, 01 Sep 2026 01:20:15 GMT
 MD5Sum:
- f9fbe45b7e81bdc793b23453867b2e4f      14952 Packages
- fba6a6cee3b000bd6bec61b063b584ba       3465 Packages.bz2
- b9a3c610bb7fa030517bf4140776ec84       3413 Packages.gz
- 1c74ef497d98f3d7b5ba7fd669f85199       3024 Packages.xz
- a1c24962765040d3f41ca8d3b8a6d372       3347 Packages.zst
+ ab32bbe49017297214be472d263fc0e6    16438 Packages
+ c247a9a9a38777b88736962f582ebf08     3719 Packages.bz2
+ 8532d7fed672f81ade0245447adf483b     3629 Packages.gz
+ 748e2158c261dea9d3b1f4a04b1fea5d     3184 Packages.xz
+ ab0948a7ba7c3c9af1f1a3c14e10d17d     3482 Packages.zst
 SHA256:
- d3011b8dc19e26d6347bc46efbb5fcfd5c9ad9795a94f52184dcc089668d7c48      14952 Packages
- 49646a354a61293d82656fa37cd39cb5ae3626886e78cae805c840bbe2d706f8       3465 Packages.bz2
- 1f7e8c871628b092a38e34606641cbb8c38e226fdb4eeacf34ad7ac2c69de4bd       3413 Packages.gz
- 842cab883f13970847d9b52d26413d47189be01ee9d6f549a65d2b9e8cced838       3024 Packages.xz
- 6c6b08b5c3e63882e53d14e88aec74ccdad7440a91d4334ae63b867126feef6a       3347 Packages.zst
+ eca45597db9e163aa6edba8ffc2af68452f6cf77a493cbb9aa5513e59a150de9    16438 Packages
+ 7ae92d46dcf631b3b5897bfda33cf5195014374ebd15e4b30386ece8a2b1af7a     3719 Packages.bz2
+ e14dc7e1a5fcbd53ae858db74272ca2d65f0aff1a28533a8a8c91df0bdc3e7fb     3629 Packages.gz
+ 2910fa0578c543cf946d17844b9f76e6474d50b795e17c6548592270a4f4fe63     3184 Packages.xz
+ 390aa568d25a35b8ed99223cfd7f4d3b8143d1019d10ea6e13a7a22d30fe2608     3482 Packages.zst
