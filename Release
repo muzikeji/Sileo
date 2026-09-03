@@ -1,39 +1,21 @@
-Origin: Muzi's Repo
-Label: Muzi's Repo
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
-Codename: muzi-repo
+Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi 的个人软件源，包含 MUtool 等插件
-Support: https://github.com/muzikeji
-Date: Thu, 03 Sep 2026 23:09:14 UTC
-MD5sum: 6a09d0edc08df05f36b09561d6123504
-SHA1: 1d94c9d67b0171d5ee885350aebac54890e5562d
-SHA256: 0b5c2294fbcf500056659dc7f0f25ace0c1f8fa9f84517eacb6e110f32757e4f
-Size: 22606
-Filename: Packages
-
-MD5sum: 95245b959460fc6f13885ec51c4f3d54
-SHA1: 298ba0974c90c6028c5d6be5106968d338808e69
-SHA256: 669181ac2d7ee6e9dcdd747c924c0927c0214a9fdb3ba6b9ba6c052a0165c87f
-Size: 4321
-Filename: Packages.bz2
-
-MD5sum: fd6d950d4c3cef52377cc88c58845a3a
-SHA1: c2efc1af3c2bed633cec78d2f015cd8d543bb5c1
-SHA256: 8d823f3c95d54ed9793c6f1dc9708006375703bf1c0e0b856c9240ad5a4f356e
-Size: 4406
-Filename: Packages.gz
-
-MD5sum: 3e0ac5ebe368813b6cf787011579d8f1
-SHA1: 0d658a915879e225dc8a19fa2fda716986b41421
-SHA256: 9b1406bfeed495bacbdc1a0151b25ef0c731877d62d295ca5d3f3e28b4bf3f3e
-Size: 3776
-Filename: Packages.xz
-
-MD5sum: c6c112ae8f7a670e93e1ee405eff6aad
-SHA1: 8fd10b6c1a2fa97a2a8401d271c157c28c755c4e
-SHA256: 0145d694d09baeac3d4cba413c70571f00db2bf7a509d681370444229bc0e7f7
-Size: 4087
-Filename: Packages.zst
+Description: 木子源越狱软件源
+Date: Thu, 03 Sep 2026 23:20:11 GMT
+MD5Sum:
+ 6a09d0edc08df05f36b09561d6123504      22606 Packages
+ 95245b959460fc6f13885ec51c4f3d54       4321 Packages.bz2
+ fd6d950d4c3cef52377cc88c58845a3a       4406 Packages.gz
+ 3e0ac5ebe368813b6cf787011579d8f1       3776 Packages.xz
+ c6c112ae8f7a670e93e1ee405eff6aad       4087 Packages.zst
+SHA256:
+ 0b5c2294fbcf500056659dc7f0f25ace0c1f8fa9f84517eacb6e110f32757e4f      22606 Packages
+ 669181ac2d7ee6e9dcdd747c924c0927c0214a9fdb3ba6b9ba6c052a0165c87f       4321 Packages.bz2
+ 8d823f3c95d54ed9793c6f1dc9708006375703bf1c0e0b856c9240ad5a4f356e       4406 Packages.gz
+ 9b1406bfeed495bacbdc1a0151b25ef0c731877d62d295ca5d3f3e28b4bf3f3e       3776 Packages.xz
+ 0145d694d09baeac3d4cba413c70571f00db2bf7a509d681370444229bc0e7f7       4087 Packages.zst
