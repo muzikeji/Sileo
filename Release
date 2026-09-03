@@ -1,21 +1,39 @@
-Origin: 木子源
-Label: 木子源
+Origin: Muzi's Repo
+Label: Muzi's Repo
 Suite: stable
 Version: 1.0
-Codename: muzi
+Codename: muzi-repo
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 木子源越狱软件源
-Date: Thu, 03 Sep 2026 15:36:22 GMT
-MD5Sum:
- 1dc0f53d6c5a65c33650bc19798180a4            21120 Packages
- fa976bfd99bd382488f9594dade4ebec             4112 Packages.bz2
- 97d6ed7ca3f62473d619da4e3a910968             4167 Packages.gz
- 6e3b24741ce010d6694677ef6a847927             3604 Packages.xz
- 5f33647ad22b3e918c95df72e8bc8261             3900 Packages.zst
-SHA256:
- eb5781e2a771ec582ff64f2f4b5318c0f9968f0cb3f0f4d65f6de53121081a3c            21120 Packages
- 90e081e5d66121c4b250d169c6865e83681da7240b701d5cf82ab94e91cb617c             4112 Packages.bz2
- 2ba66846cdcbd71f02114967c14873ff521825e9ab405b6725641c051df2176d             4167 Packages.gz
- fc38e3ae1beb8b605ad0b1870f72555b5ec2d8f745fad0404558d3ed336a003a             3604 Packages.xz
- bf0dec4d23d2e6d0d5bb0f7a502d0035c861f9d7f91500be760d41042f7fe682             3900 Packages.zst
+Description: Muzi 的个人软件源，包含 MUtool 等插件
+Support: https://github.com/muzikeji
+Date: Thu, 03 Sep 2026 23:09:14 UTC
+MD5sum: 6a09d0edc08df05f36b09561d6123504
+SHA1: 1d94c9d67b0171d5ee885350aebac54890e5562d
+SHA256: 0b5c2294fbcf500056659dc7f0f25ace0c1f8fa9f84517eacb6e110f32757e4f
+Size: 22606
+Filename: Packages
+
+MD5sum: 95245b959460fc6f13885ec51c4f3d54
+SHA1: 298ba0974c90c6028c5d6be5106968d338808e69
+SHA256: 669181ac2d7ee6e9dcdd747c924c0927c0214a9fdb3ba6b9ba6c052a0165c87f
+Size: 4321
+Filename: Packages.bz2
+
+MD5sum: fd6d950d4c3cef52377cc88c58845a3a
+SHA1: c2efc1af3c2bed633cec78d2f015cd8d543bb5c1
+SHA256: 8d823f3c95d54ed9793c6f1dc9708006375703bf1c0e0b856c9240ad5a4f356e
+Size: 4406
+Filename: Packages.gz
+
+MD5sum: 3e0ac5ebe368813b6cf787011579d8f1
+SHA1: 0d658a915879e225dc8a19fa2fda716986b41421
+SHA256: 9b1406bfeed495bacbdc1a0151b25ef0c731877d62d295ca5d3f3e28b4bf3f3e
+Size: 3776
+Filename: Packages.xz
+
+MD5sum: c6c112ae8f7a670e93e1ee405eff6aad
+SHA1: 8fd10b6c1a2fa97a2a8401d271c157c28c755c4e
+SHA256: 0145d694d09baeac3d4cba413c70571f00db2bf7a509d681370444229bc0e7f7
+Size: 4087
+Filename: Packages.zst
