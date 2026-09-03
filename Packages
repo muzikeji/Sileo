@@ -180,6 +180,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 1896
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.5.0_iphoneos-arm64.deb
+Size: 267896
+MD5sum: 7579bcef7f0300c3dac9823f4c76e6d4
+SHA1: d4dfddf012f38d668debf3614d9a81f96b5b757f
+SHA256: cf3053fc6b9c1f6bc33cbb0efe588eaf5cec428c31f8e358c6645755ab96baea
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -398,6 +416,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 1896
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.5.0_iphoneos-arm64e.deb
+Size: 264970
+MD5sum: 83074627b1d77715964b305ee84e01cc
+SHA1: ee31b56a68222a03f2488bbef333e556c0751cc6
+SHA256: 895b0a6019f182f64083497a3c0f71da051bd06450c255aebd11ab78f256b31c
+Section: Tweaks
+Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64e
@@ -433,4 +469,3 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
-
