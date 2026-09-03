@@ -216,24 +216,6 @@ Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
 
-Package: com.sini921.folderpro
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: Muzi
-Installed-Size: 1660
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.folderpro_1.0.3_iphoneos-arm64.deb
-Size: 558244
-MD5sum: 3dbc7dfd102a2f79f47655f49617f0e0
-SHA1: 269195c00dd9a4946558d851056cad9c1555f26b
-SHA256: 6e273bb5e7ff2fb70fbd2bf4e1c71c20fbd39643c1c4ba4b56850db0f5b702fd
-Section: 越狱插件
-Description: 文件夹简单优化
-Author: Muzi
-Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
-Name: FolderPro
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
-
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -451,22 +433,4 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
-
-Package: com.sini921.folderpro
-Version: 1.0.3
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 1660
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_1.0.3_iphoneos-arm64e.deb
-Size: 557060
-MD5sum: 4175fa7de19ccef1f0224d856f85ec3d
-SHA1: 95fb9b8baaffd9b7e7e490e0dcecc83a7c680642
-SHA256: 424414682114560e7be91d7f98e47ccdebc635cb158987e9ff58da132b676e2b
-Section: 越狱插件
-Description: 文件夹简单优化
-Author: Muzi
-Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
-Name: FolderPro
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
