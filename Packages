@@ -513,10 +513,10 @@ Maintainer: Muzi
 Installed-Size: 1960
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./rootless/com.muzi.mutool_1.6.0_iphoneos-arm64.deb
-Size: 284160
-MD5sum: 2fcc50c7c5bb0e69f26dccffd17903fb
-SHA1: d9fec37717784ee21309c3ff1d21759d636600d2
-SHA256: 30c1f9fbd77a43eae10cf0e0854b3009494a5c7542f8500547342eedf126382b
+Size: 286152
+MD5sum: ae0d4654c97f5f8a0d61c131edca4842
+SHA1: b6c4438d37065f892b890d09f89116d02034f83d
+SHA256: d10a769d44065e67debf4f3870eb24aa071cb7b334894809df832ff71b931c90
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
@@ -531,10 +531,10 @@ Maintainer: Muzi
 Installed-Size: 1960
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./roothide/com.muzi.mutool_1.6.0_iphoneos-arm64e.deb
-Size: 282106
-MD5sum: 1728b5d8833776867a6bf8c50c110179
-SHA1: 88b8a6bc3294f4a81c8c505995b65f26065d2676
-SHA256: c3e86d27ea5eed671967f347ca18a99d7644675f3423368ebc361fbe4539a01f
+Size: 283570
+MD5sum: f3496590a41dc1c3137ff7ae9ea5917a
+SHA1: fa1fede8d6ff6b99a31718fe1144298fa4bc6d9d
+SHA256: 9091f7ce20443989de1342eb960a3dfeccb1b48ff95508405c301d8cb699feb6
 Section: Tweaks
 Description: 定时任务、禁用 SIM 切换、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
 Author: Muzi
