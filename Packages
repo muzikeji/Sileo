@@ -729,12 +729,12 @@ Maintainer: Muzi
 Installed-Size: 2060
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./rootless/com.muzi.mutool_1.6.7_iphoneos-arm64.deb
-Size: 307372
-MD5sum: d9471d899b814db281011de350dba66c
-SHA1: 3a48601c93560f0c2d815dd3b7959cbd82525375
-SHA256: d4c8db7108d0ab5e825e9b79a7e9b1b6a3a7a9326f73727f0e0ff6a07e85c64c
+Size: 312572
+MD5sum: 825fb19df8a777d540c3c4f69fcf3cc9
+SHA1: ea9af8214d79df7f43ea004d9f0cd87bf810b102
+SHA256: c2bcce2db88fd769773eddf4a89193c558ed43c4fbc8fee582886aacd56032f4
 Section: Tweaks
-Description: 定时任务、禁用 SIM 切换、SIM 深度信息与刷 IPCC 运营商配置、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(rootless)
@@ -747,12 +747,12 @@ Maintainer: Muzi
 Installed-Size: 2060
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./roothide/com.muzi.mutool_1.6.7_iphoneos-arm64e.deb
-Size: 305258
-MD5sum: e849e2ebdc85ef6826f3ebd242f05c2a
-SHA1: f9088281a0379c66d4833fd8609fecca9ca170be
-SHA256: 5c05026c2fa529c249256835841f0c609a5f611142f11b5f7b27a1810b4da5bd
+Size: 309126
+MD5sum: 0ba0788171a1bebb6d3495ab3480812e
+SHA1: 4a6d955fa9b0cce5800563af07165d3af7ad0b37
+SHA256: 3226a8c2b278d9aa7419ea8c571c79934a03f19f118c026f7327a81c4145b14b
 Section: Tweaks
-Description: 定时任务、禁用 SIM 切换、SIM 深度信息与刷 IPCC 运营商配置、充电提示音与 MagSafe 动画、锁屏功能（自动进桌面/禁用/隐藏/通知亮屏/双击操作）
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(roothide)
@@ -829,4 +829,3 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
-

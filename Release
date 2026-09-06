@@ -6,16 +6,16 @@ Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 木子源越狱软件包
-Date: Sun, 06 Sep 2026 00:18:29 GMT
+Date: Sun, 06 Sep 2026 03:48:37 GMT
 MD5Sum:
-  4f74637eea2e205513b246c9e6ee429f 35038 Packages
-  e75171195abf0cb2b4530800e9ca254c 5836 Packages.bz2
-  ed22e7e488aabdf8f22def1f9db302eb 6269 Packages.gz
-  a8c12aed163dcec6073f004af2f893fb 5288 Packages.xz
-  ac6f2a206ce44968db096cc43adc6c9b 5669 Packages.zst
-SHA256:
-  022ba79b073cef820898b6c2b0843767bc27eacff1c2d5ff9e30df638143760f 35038 Packages
-  ad1117a3479a8783257a4c3ba7dd864b23060d8e7b78ff07052fa1c2fa57f8f7 5836 Packages.bz2
-  cb31e73ef7ddfe7256393b002242df5600d6f21c1ced21976ce2e28e19e29354 6269 Packages.gz
-  190db33ba9a353e6ede58b3d5dcfac467f95d465bd77d0b9fa65b7ec550fa64f 5288 Packages.xz
-  054ae6ca5f26704088f3f3507b2e68bdc884ae0668cb7067688640ed8828037e 5669 Packages.zst
+  c9ff2ec75f8304671f6cfb9014f1422b 35665 Packages
+  9ef6d25a3a2a63dd234c15f20969efaf 6088 Packages.bz2
+  a6341cd99ed8ef86ebf5e8b62963106d 6441 Packages.gz
+  c4fe2632663aa54bfaf92904bbc6a91f 5536 Packages.xz
+  d573b39a8bcc8f93535c4d73b1e749a7 6044 Packages.zst
+SHA256Sum:
+  9b9f4e8314d806b2875fa7b77e52e63f4192e168ddbe2246a9fc9d985a9eb7af 35665 Packages
+  9a3d66a80c4881e95bde5b28e4d21be7f2d43223dcba45601b14161e4c9ad952 6088 Packages.bz2
+  4ddc0747dc2b48e228fea338e3e299c50f53d611f18699f7dacd2ac464f043ae 6441 Packages.gz
+  e2e7ca2c9ffb2aee78c8b47c3685119dbaf87c728a74aabc23257fe238b95d11 5536 Packages.xz
+  2ee1610895666b42c8ebce7ca4917c9771a565e2c331e144e892ace99037d7a4 6044 Packages.zst
