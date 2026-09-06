@@ -4,29 +4,11 @@ Architecture: iphoneos-arm64
 Maintainer: Muzi
 Installed-Size: 440
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./rootless/com.muzi.dndscheduler_1.0.1_iphoneos-arm64.deb
+Filename: rootless/com.muzi.dndscheduler_1.0.1_iphoneos-arm64.deb
 Size: 59380
 MD5sum: c0c45646852756d4c3d63ee932a9415b
 SHA1: 4805173a139ca61e993e79c9dff14d6c5ba3fcf2
 SHA256: ea217308b4cab3762df6c2f11149213e83a5ff58ef72d705bcca0a4cca742cb2
-Section: Tweaks
-Description: 定时开启/关闭勿扰模式插件，可在设置中配置时间、勿扰开关与闹钟式重复周期。
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/dndscheduler.png
-Name: DNDScheduler 定时勿扰
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.dndscheduler.json
-
-Package: com.muzi.dndscheduler
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 440
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./roothide/com.muzi.dndscheduler_1.0.1_iphoneos-arm64e.deb
-Size: 59348
-MD5sum: 397929c241cc1069a7c99eddcfdd4a36
-SHA1: 5edca5b43a647cbd893bf1a4e4010a9bea0a49f1
-SHA256: 748bd079a280eefc544a3bdf1e08831abd4a02e24050dbdb0f0ed70e4d9d8a36
 Section: Tweaks
 Description: 定时开启/关闭勿扰模式插件，可在设置中配置时间、勿扰开关与闹钟式重复周期。
 Author: Muzi
@@ -42,7 +24,7 @@ Installed-Size: 3172
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: ./rootless/com.muzi.kayoko_4.7.3_iphoneos-arm64.deb
+Filename: rootless/com.muzi.kayoko_4.7.3_iphoneos-arm64.deb
 Size: 684188
 MD5sum: ae2ce692dddc6d3b864cf937023d2198
 SHA1: 4dd97b70ac4e51eb9acc3b9f5baac2f5483ccf6b
@@ -54,6 +36,96 @@ Icon: https://muzikeji.github.io/Sileo/icons/kayoko.png
 Name: Kayoko
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
+Package: com.muzi.mutescheduler
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 440
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.mutescheduler_1.0.1_iphoneos-arm64.deb
+Size: 59224
+MD5sum: 4f328451e47ac109b2ab7fe522abccde
+SHA1: 8d34fb0241767f788375002854dd0cfcdb511af0
+SHA256: 670a25d2e1de3bd550206b863772996baf4ccffd14fb04cf4800cccf91bad0b8
+Section: Tweaks
+Description: 定时静音/取消静音插件，可在设置中配置时间、静音模式与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutescheduler.png
+Name: MuteScheduler 定时静音
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
+
+Package: com.muzi.mutool
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 2076
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.7.1_iphoneos-arm64.deb
+Size: 316612
+MD5sum: 36e18c6f23530ad6320adfd99a1b7eed
+SHA1: 34126e9c24e0459c9b53aad72a9bbf243a389789
+SHA256: 4eebee7542dc19a01309a41e902739f9fa52f9efbe2470853614f6373f6d0ac2
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(rootless)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.reachplayer
+Version: 2.26-6
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 3348
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.reachplayer_2.26-6_iphoneos-arm64.deb
+Size: 2538392
+MD5sum: 6b235d05df7413c3ac67f857473fbb80
+SHA1: 1f69c55e59ba1ed871b2fee7b6d4fa33a2ed8792
+SHA256: 832b114707dc3be2c0fdca13b5ba9450896ec646e10f0122bfa11dda47871466
+Section: Tweaks
+Description: 在便捷访问模式上方的空白处增加音乐控制器。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
+Name: ReachPlayer(rootless)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
+
+Package: com.muzi.scheduler
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.muzi.scheduler_1.0.0_iphoneos-arm64.deb
+Size: 38088
+MD5sum: f9b973607b0a92e0882169e3006be340
+SHA1: 280098c13bbdd57b9b7a3bcb3a5d1154b92ba289
+SHA256: fd387bd2bca81ad74703460c582011214028ea54bc633d4d56da21974f91e5d2
+Section: Tweaks
+Description: 定时静音与勿扰调度插件，可在设置中配置时间、任务类型（静音或勿扰）与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
+Name: Scheduler 定时调度
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
+
+Package: com.muzi.dndscheduler
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 440
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: roothide/com.muzi.dndscheduler_1.0.1_iphoneos-arm64e.deb
+Size: 59348
+MD5sum: 397929c241cc1069a7c99eddcfdd4a36
+SHA1: 5edca5b43a647cbd893bf1a4e4010a9bea0a49f1
+SHA256: 748bd079a280eefc544a3bdf1e08831abd4a02e24050dbdb0f0ed70e4d9d8a36
+Section: Tweaks
+Description: 定时开启/关闭勿扰模式插件，可在设置中配置时间、勿扰开关与闹钟式重复周期。
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/dndscheduler.png
+Name: DNDScheduler 定时勿扰
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.dndscheduler.json
+
 Package: com.muzi.kayoko
 Version: 4.7.3
 Architecture: iphoneos-arm64e
@@ -62,7 +134,7 @@ Installed-Size: 3156
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
-Filename: ./roothide/com.muzi.kayoko_4.7.3_iphoneos-arm64e.deb
+Filename: roothide/com.muzi.kayoko_4.7.3_iphoneos-arm64e.deb
 Size: 682400
 MD5sum: 8683be645a4e6a9bfb167b9f591420e8
 SHA1: 2bdc4b13272f16d7cc6a670ec5f1d3c84cf3db50
@@ -76,29 +148,11 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.kayoko.json
 
 Package: com.muzi.mutescheduler
 Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: Muzi
-Installed-Size: 440
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./rootless/com.muzi.mutescheduler_1.0.1_iphoneos-arm64.deb
-Size: 59224
-MD5sum: 4f328451e47ac109b2ab7fe522abccde
-SHA1: 8d34fb0241767f788375002854dd0cfcdb511af0
-SHA256: 670a25d2e1de3bd550206b863772996baf4ccffd14fb04cf4800cccf91bad0b8
-Section: Tweaks
-Description: 定时静音/取消静音插件，可在设置中配置时间、静音模式与闹钟式重复周期。
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/mutescheduler.png
-Name: MuteScheduler 定时静音
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
-
-Package: com.muzi.mutescheduler
-Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 440
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./roothide/com.muzi.mutescheduler_1.0.1_iphoneos-arm64e.deb
+Filename: roothide/com.muzi.mutescheduler_1.0.1_iphoneos-arm64e.deb
 Size: 59160
 MD5sum: 6c5eecad90d6430a38fddf52be4086ba
 SHA1: 4948a7a193c318a8da0f13c541f9438a7a455762
@@ -111,34 +165,16 @@ Name: MuteScheduler 定时静音
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutescheduler.json
 
 Package: com.muzi.mutool
-Version: 1.7.0
-Architecture: iphoneos-arm64
+Version: 1.7.1
+Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 2076
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./rootless/com.muzi.mutool_1.7.0_iphoneos-arm64.deb
-Size: 316308
-MD5sum: 792ce28d6787d55c02c0846550fe4f1c
-SHA1: 76e71a6216290fb23b95cd47a8ed7998056ebef0
-SHA256: c40e62856d78cd4606a79c28f93bf409772ca1a8ad4b11cb65ff6495c4c58052
-Section: Tweaks
-Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
-Name: MUtool(rootless)
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
-
-Package: com.muzi.mutool
-Version: 1.7.0
-Architecture: iphoneos-arm64e
-Maintainer: Muzi
-Installed-Size: 2060
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./roothide/com.muzi.mutool_1.7.0_iphoneos-arm64e.deb
-Size: 313340
-MD5sum: 76c02e24a5bfa8adc47396cedfd07535
-SHA1: 8382997c730fcc13880008eba31096f223a59d99
-SHA256: 5121a4c91739816f8a4353a20b09aa1e3fef22a3e844e5b5b785d9533b63ae19
+Filename: roothide/com.muzi.mutool_1.7.1_iphoneos-arm64e.deb
+Size: 313482
+MD5sum: 2a3160f9acea9291bb249919b5f78269
+SHA1: fc6fb8a712655e561cd8a00d8dca74d08f4ecf71
+SHA256: 5f59b109b032096b20194feea48d4f82da5ec83c4e9b6bcf82f903acba66336e
 Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
@@ -146,32 +182,13 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
-
-Package: com.muzi.reachplayer
-Version: 2.26-6
-Architecture: iphoneos-arm64
-Maintainer: Muzi
-Installed-Size: 3348
-Depends: mobilesubstrate, preferenceloader
-Filename: ./rootless/com.muzi.reachplayer_2.26-6_iphoneos-arm64.deb
-Size: 2538392
-MD5sum: 6b235d05df7413c3ac67f857473fbb80
-SHA1: 1f69c55e59ba1ed871b2fee7b6d4fa33a2ed8792
-SHA256: 832b114707dc3be2c0fdca13b5ba9450896ec646e10f0122bfa11dda47871466
-Section: Tweaks
-Description: 在便捷访问模式上方的空白处增加音乐控制器。
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/reachplayer.png
-Name: ReachPlayer(rootless)
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer.json
-
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 3348
 Depends: mobilesubstrate, preferenceloader
-Filename: ./roothide/com.muzi.reachplayer_2.26-6_iphoneos-arm64e.deb
+Filename: roothide/com.muzi.reachplayer_2.26-6_iphoneos-arm64e.deb
 Size: 2535792
 MD5sum: 84c9079337a0060f24369b5bf488cb72
 SHA1: 5d86824f07ac74fe57ab778b523ccab46881f461
@@ -185,29 +202,11 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.reachplayer
 
 Package: com.muzi.scheduler
 Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Muzi
-Installed-Size: 424
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./rootless/com.muzi.scheduler_1.0.0_iphoneos-arm64.deb
-Size: 38088
-MD5sum: f9b973607b0a92e0882169e3006be340
-SHA1: 280098c13bbdd57b9b7a3bcb3a5d1154b92ba289
-SHA256: fd387bd2bca81ad74703460c582011214028ea54bc633d4d56da21974f91e5d2
-Section: Tweaks
-Description: 定时静音与勿扰调度插件，可在设置中配置时间、任务类型（静音或勿扰）与闹钟式重复周期。
-Author: Muzi
-Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
-Name: Scheduler 定时调度
-Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
-
-Package: com.muzi.scheduler
-Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
 Installed-Size: 424
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./roothide/com.muzi.scheduler_1.0.0_iphoneos-arm64e.deb
+Filename: roothide/com.muzi.scheduler_1.0.0_iphoneos-arm64e.deb
 Size: 38048
 MD5sum: 9a0329823c4c6280be5646587145060b
 SHA1: 816189ce31103a68f2d8966c556223d040f932a4
@@ -218,3 +217,4 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
+
