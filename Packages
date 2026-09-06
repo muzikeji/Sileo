@@ -864,3 +864,40 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
+
+
+Package: com.muzi.mutool
+Version: 1.7.0
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 2076
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./rootless/com.muzi.mutool_1.7.0_iphoneos-arm64.deb
+Size: 316308
+MD5sum: 792ce28d6787d55c02c0846550fe4f1c
+SHA1: 76e71a6216290fb23b95cd47a8ed7998056ebef0
+SHA256: c40e62856d78cd4606a79c28f93bf409772ca1a8ad4b11cb65ff6495c4c58052
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(rootless)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 2060
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./roothide/com.muzi.mutool_1.7.0_iphoneos-arm64e.deb
+Size: 313340
+MD5sum: 76c02e24a5bfa8adc47396cedfd07535
+SHA1: 8382997c730fcc13880008eba31096f223a59d99
+SHA256: 5121a4c91739816f8a4353a20b09aa1e3fef22a3e844e5b5b785d9533b63ae19
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(roothide)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
