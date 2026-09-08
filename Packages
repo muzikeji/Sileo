@@ -217,7 +217,6 @@ Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Name: MUtool(rootless)
 Version: 1.8.0
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -232,10 +231,10 @@ Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Name: MUtool(rootless)
 Version: 1.8.1
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -250,6 +249,7 @@ Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.reachplayer
@@ -287,6 +287,22 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/scheduler.png
 Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
+
+Package: moe.waru.soko
+Version: 1.0.0-rc.1
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/moe.waru.soko_1.0.0-rc.1_iphoneos-arm64.deb
+Size: 94968
+MD5sum: 37133dee7ea9a5841d4a11dbaa11bfd2
+SHA1: baafd8d4e8c7a716cb92aa9b311ba3d371e25594
+SHA256: fe5f13144d08d6fc3b396269ed17c837682317e5cdfb0e5841770e7bf8e54f19
+Section: Tweaks
+Description: iOS 26 style Lock Screen widgets
+Author: waruhachi
+Name: Soko
 
 Package: com.muzi.dndscheduler
 Version: 1.0.1
@@ -507,7 +523,6 @@ Name: MUtool(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Name: MUtool(roothide)
 Version: 1.8.0
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
@@ -522,10 +537,10 @@ Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Name: MUtool(roothide)
 Version: 1.8.1
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
@@ -540,6 +555,7 @@ Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、电池健康与深度信息
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Name: MUtool(roothide)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.reachplayer
@@ -593,4 +609,20 @@ Section: Tweaks
 Description: Allows DRM Protected audio to be captured through screen recording.
 Author: daniel
 Name: isMuted (RootHide)
+
+Package: moe.waru.soko
+Version: 1.0.0-rc.1
+Architecture: iphoneos-arm64e
+Maintainer: waruhachi
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader
+Filename: roothide/moe.waru.soko_1.0.0-rc.1_iphoneos-arm64e.deb
+Size: 94924
+MD5sum: 78a0e8f58418193d8d16596d8c489434
+SHA1: dad19f51cc9f85c5d3ea60e080eb97b2a67118e6
+SHA256: aa83b2fd95bc2a9981a01011e02447263f519e74264cb716d67a6ad62b689866
+Section: Tweaks
+Description: iOS 26 style Lock Screen widgets
+Author: waruhachi
+Name: Soko
 
