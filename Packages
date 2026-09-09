@@ -735,6 +735,22 @@ Author: daniel
 Name: isMuted (RootHide)
 
 Package: daniel.ismuted
+Version: 0.0.12
+Architecture: iphoneos-arm64e
+Maintainer: daniel
+Installed-Size: 684
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/daniel.ismuted_0.0.12_iphoneos-arm64e.deb
+Size: 24810
+MD5sum: bd7bf445a439232d643917acaa91911f
+SHA1: 975c34d50457736e33122060cb61675fc8d01160
+SHA256: 31370ea8ec76c604c2b3a649f82399e69a7525441b7aebbdb94dd605ffe6949a
+Section: Tweaks
+Description: Capture DRM-protected audio in screen recordings, plus automatic call/system audio recording via ATAudioTap. Configurable in Settings.
+Author: daniel
+Name: isMuted (RootHide)
+
+Package: daniel.ismuted
 Version: 0.0.9
 Architecture: iphoneos-arm64e
 Maintainer: daniel
