@@ -6,22 +6,22 @@ Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 木子源越狱软件包
-Date: Wed, 09 Sep 2026 13:14:45 +0000
+Date: Wed, 09 Sep 2026 14:18:21 +0000
 MD5Sum:
-  7bd431a02c13dffca284f2dcae402829 40491 Packages
-  a365cc6af71f0b61157d7384bdc14a67 5981 Packages.bz2
-  bd8bde636ddf3cc11285dfae2e60df5f 6149 Packages.gz
-  298066fb869f8c8141b12b64dfd757f0 5272 Packages.xz
-  c26b01aecabed4dcfab8e069f7f4bbed 5465 Packages.zst
+  de4fded3d3f1bdcca5b44ccd2f87aa54 40491 Packages
+  0ff1eb8ad4429a2ff857f1c0bd8d4884 6003 Packages.bz2
+  43cf6b9b2f5145d77b687e0d8c9adbef 6152 Packages.gz
+  0da80d18fba80fa5a6443166da4072d1 5272 Packages.xz
+  4c8a99c4efb656553d1f2af92d97ca9c 5465 Packages.zst
 SHA1:
-  b43f85bef86b5b20f1f0fa2bda1178c05e1942dd 40491 Packages
-  7c50b7c41c24cd44264be3d75afb2bde8d978e2a 5981 Packages.bz2
-  b617001e894c269e3195aa280ff44448cac4b5d7 6149 Packages.gz
-  b19f5fd2e2de9fb7d8cb71c4e2254c7f9c5ee9d6 5272 Packages.xz
-  f0f6f9f6bb8ff2fdff00e27b019339a95b002f4e 5465 Packages.zst
+  6c9f52e7395134a631f893ea4773884c67e9071d 40491 Packages
+  7194e6ab901214abe78bebf79fa9554ba4fb664a 6003 Packages.bz2
+  645e634608e0ccc2818d0ccc01fc9673991de8ac 6152 Packages.gz
+  58b4cab192a69badfee2fe2ef1dbbd8d3b057aab 5272 Packages.xz
+  e72629860942d7b3784c41f6d63a428e8c5ff106 5465 Packages.zst
 SHA256Sum:
-  269f6a38b2423a8ca6726f342bcd43d7fc9acb2fd0bfd82e2c596335590df33c 40491 Packages
-  48464a4309cbb68907169aeea3c8e4e980372a8ad07585954ff7c134220822c4 5981 Packages.bz2
-  5c2d6bbe043429a17ba71ec9d3e2022410b4e16e38d41b6070864152ab8af761 6149 Packages.gz
-  5a247fcfc6afd434f0f7e45810bc97cd78925020a113cb3075eaed697263de0f 5272 Packages.xz
-  665d30847687047d64efccf9a326edddd30d9380ac264ab7fcddc146a41b41c1 5465 Packages.zst
+  72ffede18aba55017967e7fca676eac87f4f039eeacf494e8f7e257f46b154dc 40491 Packages
+  1d55793ae9e238f4d9a4bed5de3e5a3fc1ebff1f4f315d785e3b6c14c32b1d58 6003 Packages.bz2
+  9451b68397456d72d1d364be0596dc4ca860f418af5880fdf21e0b18164e7d00 6152 Packages.gz
+  def16557404ba71626db4c281f350ce8034265abb18f50ec4bd8e383dc9280a1 5272 Packages.xz
+  e622d5968785bd75ca632a8d12466d5785e5d9d41e8b304f1ac7cbdc43e50434 5465 Packages.zst
