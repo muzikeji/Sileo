@@ -703,16 +703,16 @@ Name: Scheduler 定时调度
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.scheduler.json
 
 Package: daniel.ismuted
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm64e
 Maintainer: daniel
-Installed-Size: 512
+Installed-Size: 516
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: roothide/daniel.ismuted_0.0.5_iphoneos-arm64e.deb
-Size: 14164
-MD5sum: 9afc98acfc29214c1010015bd517dd03
-SHA1: 454ab2c18cf978e26b5b60e09434d0dc1e94e0d0
-SHA256: daa2dbfea81bb0d75f6a93a1fe536fdec7272562998c68b683e00631fcede15d
+Filename: roothide/daniel.ismuted_0.0.6_iphoneos-arm64e.deb
+Size: 16638
+MD5sum: d86f8f37db751798170e06b03de975fb
+SHA1: af39e3a3ef6595c0ee9987eaef889ffa8a095072
+SHA256: 2c95a1e633d11c4fe07880335f6a77da445c9da618c71eb3f57c4fd6db3b4676
 Section: Tweaks
 Description: Capture DRM-protected audio in screen recordings, plus automatic call/system audio recording via ATAudioTap. Configurable in Settings.
 Author: daniel
