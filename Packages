@@ -324,6 +324,24 @@ Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Name: MUtool(rootless)
+Version: 1.8.6
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 2860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.8.6_iphoneos-arm64.deb
+Size: 396592
+MD5sum: f90006696e6f032070706a2540f6e22c
+SHA1: 08ed2406c4c4eb3f674a0ed99d02f94bb215e09f
+SHA256: 535d92039c9e5cab54a4fbccd722b41a2cab9d96b09f15cea87ada3de789c355
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -696,6 +714,24 @@ Size: 394600
 MD5sum: 8e08f44b6157061033ac5f5d61a7b48b
 SHA1: 7ed173e66d82b6a490995e6d9060e07914968654
 SHA256: 3df681eb33f6460de7d10f1b0ffab781f980a35b2d0158239461067b7890ec41
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Name: MUtool(roothide)
+Version: 1.8.6
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 2860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.8.6_iphoneos-arm64e.deb
+Size: 392570
+MD5sum: cdcdfe1fbd831791fe1e1d9f6bc632a1
+SHA1: c023a29eca3a41b523129c4f4704fae78d46e1dc
+SHA256: 4ba19eb2707ce2f4a7bf480260e5870a551d57e3e304fe78c82227a59690430f
 Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
 Author: Muzi
