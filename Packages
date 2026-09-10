@@ -306,6 +306,24 @@ Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
+Package: com.muzi.mutool
+Name: MUtool(rootless)
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 2860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.8.5_iphoneos-arm64.deb
+Size: 399284
+MD5sum: 5526eb01f15908c7268cc2096d916f9c
+SHA1: 73e40a056711e6fc7356d435e3d071e954d2b53a
+SHA256: 57471c4ef198dbe17727bfea14be11a2fdf5fb108026d8c2bc3be5e72aab78c7
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
 Package: com.muzi.reachplayer
 Version: 2.26-6
 Architecture: iphoneos-arm64
@@ -664,6 +682,24 @@ Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池�
 Author: Muzi
 Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Name: MUtool(roothide)
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Name: MUtool(roothide)
+Version: 1.8.5
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 2860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.8.5_iphoneos-arm64e.deb
+Size: 394600
+MD5sum: 8e08f44b6157061033ac5f5d61a7b48b
+SHA1: 7ed173e66d82b6a490995e6d9060e07914968654
+SHA256: 3df681eb33f6460de7d10f1b0ffab781f980a35b2d0158239461067b7890ec41
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
 Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.reachplayer
