@@ -452,18 +452,19 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 
 
+
 Package: com.muzi.mutool
 Name: MUtool(rootless)
 Version: 1.9.8
 Architecture: iphoneos-arm64
 Maintainer: Muzi
-Installed-Size: 3012
+Installed-Size: 3028
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: rootless/com.muzi.mutool_1.9.8_iphoneos-arm64.deb
-Size: 428604
-MD5sum: bdaa07da6858c31fa15c6bb18f003c4b
-SHA1: 0acdb4c72debd8293cedfa07446266f3b1f69b0b
-SHA256: 79ac0756092626f02d8fd03f353dcca131f659424d0770bd003ddb8fa868e615
+Size: 427236
+MD5sum: 433bc89a4483a49a8081b76dfa60e502
+SHA1: 838cb917c6c10704a21947c48bf1d38758922b1e
+SHA256: 472e8694fdbffb32edd9b260e0bdeb5e664f115c2128008465f4c3ecf57dfaa6
 Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Author: Muzi
@@ -1066,6 +1067,7 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 
 
+
 Package: com.muzi.mutool
 Name: MUtool(roothide)
 Version: 1.9.8
@@ -1074,10 +1076,10 @@ Maintainer: Muzi
 Installed-Size: 2980
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: roothide/com.muzi.mutool_1.9.8_iphoneos-arm64e.deb
-Size: 426188
-MD5sum: 74ca97adfdc0bca57bbda871758bff5f
-SHA1: 3d1eb8fc38a4a02473aa41914ddb5b2320595e83
-SHA256: 3600d43157f8e687bde1dabe7b67ee731660142546ec61d25ec2201bec33cd1a
+Size: 425698
+MD5sum: ba7afb457e45d11c6da7a384e400ea25
+SHA1: 19e54a1ac3c4499f98603cdcae93568ac11fe9ac
+SHA256: 9e07613fcbeed285ba563f8d7d56e5a2c33a5b64012938c5edf0454ec0846285
 Section: Tweaks
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Author: Muzi
