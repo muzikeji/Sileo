@@ -455,6 +455,24 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
 Name: MUtool(rootless)
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Installed-Size: 3028
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.muzi.mutool_1.9.9_iphoneos-arm64.deb
+Size: 427818
+MD5sum: 88bcee9fef2a5095dbbd559060a14e3a
+SHA1: 53aef3ac9aa93287c4f65017a59ae9390a70c27d
+SHA256: 33ba3804d72cf6e5d9c0e18162d1dac93632e71adf8d776dad06dea8cf12d9be
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+
+Package: com.muzi.mutool
+Name: MUtool(rootless)
 Version: 1.9.8
 Architecture: iphoneos-arm64
 Maintainer: Muzi
@@ -1067,6 +1085,24 @@ Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 
 
+
+Package: com.muzi.mutool
+Name: MUtool(roothide)
+Version: 1.9.9
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Installed-Size: 2980
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: roothide/com.muzi.mutool_1.9.9_iphoneos-arm64e.deb
+Size: 426782
+MD5sum: d75850763c6f6ac50e21e777a0bcb48f
+SHA1: 89eeb1f4bcc7ca8a37ea2d70366fed790f794b48
+SHA256: d820e0b42fa2b8c3175cc43484dfe7f679d2693f01715a6400e3726664640e8e
+Section: Tweaks
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，长按拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Author: Muzi
+Icon: https://muzikeji.github.io/Sileo/icons/mutool.png
+Sileodepiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
 Name: MUtool(roothide)
