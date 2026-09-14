@@ -1,11 +1,11 @@
 Package: com.duo.statusbar
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: DuoStatusBar
-Filename: rootless/com.duo.statusbar_1.1.0_iphoneos-arm64.deb
-Size: 35802
-MD5sum: 9cc01ca7f6e51df12964ba7960ba8d64
-SHA256: fbc41f0a07333802b5b48b8c8937a60c5211cceb946659f62d324ea9ad4b491e
+Filename: rootless/com.duo.statusbar_1.1.1_iphoneos-arm64.deb
+Size: 37094
+MD5sum: 64d651b7f65782b3c1e92eb640731b99
+SHA256: 68b42307b2a7fc5cd798ccc2efc5d2aab36f1efae989e975415c9f83513bcfbb
 Name: DuoStatusBar
 Description: Merge the cellular signal, Wi-Fi and battery indicators into the iPhone Duo style circular widget on iPhone 12-15. v20: STUIStatusBar-native hook + smart wallpaper-aware tint (port from 34306/DuoBar).
 Tag: purpose::extension, role::hacker
@@ -15,13 +15,13 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
 
 Package: com.duo.statusbar
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm64e
 Maintainer: DuoStatusBar
-Filename: roothide/com.duo.statusbar_1.1.0_iphoneos-arm64e.deb
-Size: 35802
-MD5sum: a596b66fa581e8a856ca52ee15ef2006
-SHA256: 84cf700e1a7bc867992d58d4828c7bb7983229c0b9f57b382311233b0b5918c5
+Filename: roothide/com.duo.statusbar_1.1.1_iphoneos-arm64e.deb
+Size: 36842
+MD5sum: 866d8edd0fd0d95b3813fa41174f7519
+SHA256: d4d81539412ac1c0bed5d3f79115c4d75286772464da689ab30740092a460245
 Name: DuoStatusBar
 Description: Merge the cellular signal, Wi-Fi and battery indicators into the iPhone Duo style circular widget on iPhone 12-15. v20: STUIStatusBar-native hook + smart wallpaper-aware tint (port from 34306/DuoBar).
 Tag: purpose::extension, role::hacker
@@ -1200,6 +1200,70 @@ SHA256: 2ed87cbea955934412863207d74abde55b44c5fe72cc2622b1294093729528b2
 Name: MUtool(roothide)
 Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.25
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_1.9.25_iphoneos-arm64.deb
+Size: 483738
+MD5sum: 47512653bd8460e96d7474be9e1ee005
+SHA256: c53d56bdee5a05d43db234e9c1eb2cffe6928313dfb562fcbf2278457068266f
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.25
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_1.9.25_iphoneos-arm64e.deb
+Size: 479444
+MD5sum: 4c2d9e28af5f0de823b13f2b02af2f03
+SHA256: 07c9cca8584ca101a9d4a96312ecf49b593da7e248fed1c22a31b40f34e4f80d
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.26
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_1.9.26_iphoneos-arm64.deb
+Size: 483276
+MD5sum: afc2058c61c55d8ad076f4b2ac8f1c1c
+SHA256: df04ec23b4905a05797859c3c67f1225c35eddaa898d52cb5b8e24236f2c8bbc
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.26
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_1.9.26_iphoneos-arm64e.deb
+Size: 477296
+MD5sum: d34abbf1b3d22fe2c82a3430f4064527
+SHA256: 08645ab0805219ef17fcd0860f9b72309666f7af14fe2bb7e8a6fae0c9de1c1c
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
 Section: Tweaks
 Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
