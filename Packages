@@ -1,11 +1,11 @@
 Package: com.duo.statusbar
-Version: 1.1.3
+Version: 1.1.4
 Architecture: iphoneos-arm64
 Maintainer: DuoStatusBar
-Filename: rootless/com.duo.statusbar_1.1.3_iphoneos-arm64.deb
-Size: 36982
-MD5sum: 80d97d5044106faff9f389c20e0935c6
-SHA256: be6897ca6d01473590d552e3691dd42bc5df715294f8125a77b7b651c03e5b6a
+Filename: rootless/com.duo.statusbar_1.1.4_iphoneos-arm64.deb
+Size: 37624
+MD5sum: 62d0f1788366e9ea52245bdbc4e2f45c
+SHA256: 05ba21420aec6c4c5fd38093e58693e5f5f05beeb4908c203d4d0505f8ea422d
 Name: DuoStatusBar
 Description: Merge the cellular signal, Wi-Fi and battery indicators into the iPhone Duo style circular widget on iPhone 12-15. v20: STUIStatusBar-native hook + smart wallpaper-aware tint (port from 34306/DuoBar).
 Tag: purpose::extension, role::hacker
@@ -15,13 +15,13 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
 
 Package: com.duo.statusbar
-Version: 1.1.3
+Version: 1.1.4
 Architecture: iphoneos-arm64e
 Maintainer: DuoStatusBar
-Filename: roothide/com.duo.statusbar_1.1.3_iphoneos-arm64e.deb
-Size: 36990
-MD5sum: 5406ac8028bdb112d78a6c4ddc374bb2
-SHA256: c736920dde4071da58ccfbe09ee790dccdafff33f59abdfa54d21e62bfdb1a5e
+Filename: roothide/com.duo.statusbar_1.1.4_iphoneos-arm64e.deb
+Size: 37522
+MD5sum: 6c1445d3a2f3e0a16f9cd3f1fb822b46
+SHA256: 67e3431eb14fceb5d598e2c6f2db7fdbd25451e648176be8def2c362728e2567
 Name: DuoStatusBar
 Description: Merge the cellular signal, Wi-Fi and battery indicators into the iPhone Duo style circular widget on iPhone 12-15. v20: STUIStatusBar-native hook + smart wallpaper-aware tint (port from 34306/DuoBar).
 Tag: purpose::extension, role::hacker
