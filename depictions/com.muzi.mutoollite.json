@@ -1,0 +1,63 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.3",
+  "tintColor": "#3A42BA",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "markdown": "## Mutoollite\n原版 MUtool 多功能工具集的精简版本，已移除充电提示音、充电限制、锁屏功能、温控功能、录音与录屏等模块，只保留核心能力。\n\n### 保留的功能\n- **定时任务**：按指定时间自动执行「静音 / 取消静音」或「开启勿扰 / 关闭勿扰」，支持每天、工作日、周末、自定义星期重复\n- **SIM 管理**：打开指定 App 时自动禁用所选 SIM 卡，退出后自动恢复；卡槽详情、运营商 / 标签 / 电话号码 / IMEI / SIM 状态 / 当前网络；一键切换数据卡槽与网络类型（2G / 3G / 4G / 5G）；IPCC 运营商配置（安装自定义 .ipcc 解锁 VoLTE / 5G / Wi-Fi Calling）\n- **桌面悬浮信息药丸**：实时网速 / CPU / 内存显示，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏\n\n### 授权\n沿用 MUtool 主包激活码 `MUZI-MUTOOL-XXXX-XXXX-XXXX-XXXX`，两插件共用同一激活码。\n\n### 与原版 MUtool 的关系\n本包与原版 MUtool（com.muzi.mutool）互斥安装，安装本包将自动卸载原版，反之亦然。如需完整功能请安装 MUtool 主包；如仅需保留定时任务 / SIM 管理 / 桌面悬浮药丸，安装 Mutoollite 体积更小、功耗更低。\n\n适配 rootless 与 roothide 无根越狱环境，iOS 15.0+。",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "信息",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Muzi",
+          "title": "作者"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.1",
+          "title": "版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15.0+",
+          "title": "支持的系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2026年09月14日",
+          "title": "更新日期"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "约 282 KB（roothide / rootless 各一）",
+          "title": "包大小"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "markdown": "## 1.0.1 (2026-09-14)\n- 重新启用付费激活系统，沿用 MUtool 主包激活码 MUZI-MUTOOL-XXXX-XXXX-XXXX-XXXX\n- 设置面板顶部品牌统一为 Mutoollite\n- 设备授权入口移到注销设备之前\n- 删除合作开发者 Sini921 条目\n- 与原版 MUtool 互斥安装（安装本包会自动卸载原版）\n- 重做 Mutoollite 专属图标\n\n## 1.0.0 (2026-09-14)\n- 首个精简版本发布",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}
