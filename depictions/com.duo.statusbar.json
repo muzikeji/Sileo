@@ -1,0 +1,10 @@
+{
+  "minOS": "15.0",
+  "maxOS": "16.0",
+  "package": "com.duo.statusbar",
+  "name": "DuoStatusBar",
+  "author": "Muzi",
+  "description": "Merges the iPhone status bar's battery, Wi-Fi and cellular signal icons into a single circular widget in the style of the iPhone Duo outer display.\n\nv20 changes:\n- Switched to STUIStatusBar-native hook (port from 34306/DuoBar) so the indicator actually lives inside the system status bar rather than being a separate overlay window. Result: no more flash on Control Center / lock screen.\n- Fixed the smart-invert colour bug. The icon now follows STUIStatusBar's foregroundColor directly, so it auto-inverts against any wallpaper like the rest of the status bar — works in colour mode too, not just b/w.\n\nSettings: position offsets, icon size, ring width, per-element HEX colours, debug log.",
+  "changelog": "v1.1.0 (2026-09-14)\n- STUIStatusBar-native hook (port from 34306/DuoBar): duo view now lives inside the system status bar instead of being an overlay UIWindow.\n- Smart-invert fix: tint follows STUIStatusBar.foregroundColor directly, replacing the fragile 'sample wallpaper pixel, lum > 0.55 → black/white' binarisation that broke colour tinting.\n- Airplane-mode indicator hook: now renders the airplane glyph when toggled.\n- Deprecated DUOStatusBarOverlay class (kept only for ABI).\n\nv1.0.0\n- Initial release (UIWindow overlay).",
+  "homepage": "https://github.com/muzikeji/DuoStatusBar"
+}

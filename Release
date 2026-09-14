@@ -1,27 +1,22 @@
-Origin: 木子源
-Label: 木子源
+Origin: Muzi Sileo Repo
+Label: Muzi
 Suite: stable
 Version: 1.0
 Codename: muzi
+Date: Mon, 14 Sep 2026 14:55:53 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 木子源越狱软件包
-Date: Mon, 14 Sep 2026 14:30:29 GMT
+Description: Muzi package repository
+
 MD5Sum:
-  dfef87d0ba5485e709b0ba52571e2ea6 126364 Packages
-  716a0997ddfc2b1dd9ab78213059f2e6 14346 Packages.gz
-  f3cc3a9a8d05317d5d84e87b2261e9ae 11878 Packages.bz2
-  afeb6abbd79112038a83cf52d5257a4c 11220 Packages.xz
-  ed586fdb6358237e6832dba2435efebd 11421 Packages.zst
-SHA1:
-  8169b7c4cd520e399ea3e1d346383e3b5822c152 126364 Packages
-  763f2dc8ef3ad219735f6a0d4859e5c31bfed906 14346 Packages.gz
-  b58b8787c39878f0dfc0b52e44a5cdaa4033788d 11878 Packages.bz2
-  f5617ce523ceaf532591040a198578f045a35a6d 11220 Packages.xz
-  92003a96c753c6c64e5df0ce189ea8386c285966 11421 Packages.zst
-SHA256Sum:
-  e27abed2934bcb6a60154ef939825e65a8b80439207673dd567bdf8832d42b3e 126364 Packages
-  dfc63f212f621867e82a67689fbb37c0929e69f720e20b878f206c344533d01a 14346 Packages.gz
-  86e370797d2178ee970fdf88ba87ab3ae01da5dc230ec3089d7c046147808f51 11878 Packages.bz2
-  7f071cd3f2da3f22a998ed9c7580a09d2d4a3d4e48cf35e8233b7541286aa300 11220 Packages.xz
-  3e45d7cecfa536f88588e771df3442a18d34ba7af56ceb5d183a7a2c62109060 11421 Packages.zst
+ 1455017d6ef74bd9424f2d6323d4e7a1 114824 Packages
+ 52f66fdcb5f68fa7e5c0aa4ce00f74da 10611 Packages.gz
+ 06a8d8741ac0504e079d60f16a513911 9559 Packages.bz2
+ 16512bd42fd469d7fcdb99dd609d6133 8712 Packages.xz
+ 950d4dd95aec0d2dd53a7c6f76e06cd5 9583 Packages.zst
+SHA256:
+ 98cd2a5bb669ddafe74289ffb455b264b8fb66ccfe6c9eea7eb631c91a434095 114824 Packages
+ aeea6cedd30201ca3cc048d4085dbdc196d0b31699890baa392a44724eda54cc 10611 Packages.gz
+ 827d6d1a433e660f30e33d6c6cb39b65bf5a5078f493966d6dbf0413c6b66b55 9559 Packages.bz2
+ 7e88129e1d22b781df3aef8c306a7c4e37fe42186bac6cd24d3eb42f325a5ada 8712 Packages.xz
+ 85c360d9b200bd2df050bd91cba04683516d065910ba8f673271d4877016deb5 9583 Packages.zst
