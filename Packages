@@ -350,6 +350,38 @@ Section: Tweaks
 Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
 
+Package: com.duo.statusbar
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: duostatusbar <duo@local>
+Filename: rootless/com.duo.statusbar_2.0.0_iphoneos-arm64.deb
+Size: 38942
+MD5sum: abbadb87be60ac9485bbbf2e12ee2e81
+SHA256: 2480f2aac99f278a50285247804e09b866c459314dd23e26ee38d0b6f40d67c3
+Name: DuoStatusBar
+Description: Smart status-bar trio: battery ring, signal & Wi-Fi dots in one compact glyph.
+Depends: mobilesubstrate (>= 0.9.7000)
+Conflicts: com.34306.duobar
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
+Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
+
+Package: com.duo.statusbar
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: duostatusbar <duo@local>
+Filename: roothide/com.duo.statusbar_2.0.0_iphoneos-arm64e.deb
+Size: 38784
+MD5sum: b7c674496b84f76857a5f72b559329ed
+SHA256: 1271ea1199b4a80e0545915da52891dd6f6aaf69b96143cb19c53fb71f2b1c6a
+Name: DuoStatusBar
+Description: Smart status-bar trio: battery ring, signal & Wi-Fi dots in one compact glyph.
+Depends: mobilesubstrate (>= 0.9.7000)
+Conflicts: com.34306.duobar
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
+Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
+
 Package: com.muzi.dndscheduler
 Version: 1.0.1
 Architecture: iphoneos-arm64
