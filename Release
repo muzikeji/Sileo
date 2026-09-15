@@ -1,22 +1,27 @@
-Origin: Muzi Sileo Repo
-Label: Muzi
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: muzi
-Date: Tue, 15 Sep 2026 15:49:43 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi package repository
-
+Description: 木子源越狱软件包
+Date: Tue, 15 Sep 2026 15:53:17 GMT
 MD5Sum:
- 3e68de199d27e0d5b4a2d7ac8d47baa4 137404 Packages
- c4584fc5644ffb862aa6fc8093921956 12831 Packages.gz
- ef76615ce07f2f74f25fc17e471a3945 11347 Packages.bz2
- 59d452cab68e7a3a89135801375fd1bd 10476 Packages.xz
- b9c4eaf2ed37ac7ab4d9c0abbb249ac0 12448 Packages.zst
-SHA256:
- a92e9a1511fe809265d58198bdd64728cfe7d82b67c1d5a62046592e25494b2e 137404 Packages
- a777875db86ed86d5a23eaa8b0ceec1d2a5caad914385678737fc1b0fb1e95e7 12831 Packages.gz
- 9cf90e2115104ca895b0bffb2e15fd559dc66d6ed8190b06dbdb8285a3005ee9 11347 Packages.bz2
- 7d3f9e7e4a033616707edddd3b9bf0d289a291c67e01b81a13b1bfc38c247615 10476 Packages.xz
- 9a04727b010cebd54eef97455f269508da705e3e3aca745bad1e6307be1d56dc 12448 Packages.zst
+  704ea8e9aa7da286958cfc89f661de29 140130 Packages
+  cedec9e03f418764f3b2fd448652d3c7 12946 Packages.gz
+  97022720c1887bd793c424cee09047c9 11477 Packages.bz2
+  f0ba16fe9a0bd78d3451175096740b84 10604 Packages.xz
+  8a83a25027f4d5338f52317a76d7ce25 10873 Packages.zst
+SHA1:
+  715aa267993222214786bc0e1bfbee99fe5ade46 140130 Packages
+  4b8a67de38f3beab87970f44f51959de0e4b8560 12946 Packages.gz
+  c2dd7e38e232e931e50826de613e2e14b6bf4cc2 11477 Packages.bz2
+  9b759ca0b64d91207f4e0d138239a4c0c125fe8e 10604 Packages.xz
+  83ad94280ee64312d01681202b5be52a22455d4f 10873 Packages.zst
+SHA256Sum:
+  be18becfa3687deee7edd1bf7c0338ec9ddd5fa121cd655914bd1217f5925ea0 140130 Packages
+  b2b3cafc52d2c7cd88a29693b90f689b44e07fe9e2d38813d29631d9361da060 12946 Packages.gz
+  d9582134a5be814f5579e678a4ebfc29a67c9e9cfbbeb547c2a009127d1dd9de 11477 Packages.bz2
+  39b21c39d1a8057d3bdd295709ba7573351536d46097231a2d1c66336984b1f6 10604 Packages.xz
+  45f03e1c67ed9144ad9ea5ecac0fe9e756d7ec28ca6af0aaa30b0630c370357b 10873 Packages.zst
