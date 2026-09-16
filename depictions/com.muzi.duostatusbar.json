@@ -1,0 +1,8 @@
+{
+  "minOS": "14.0",
+  "package": "com.muzi.duostatusbar",
+  "name": "DuoStatusBar",
+  "author": "Muzi",
+  "description": "把状态栏的电量、Wi-Fi、信号三个图标合并成一个环形小组件,致敬 iPhone Duo 外屏。\n\n参考 34306/DuoBar 架构 (DuoShared 单例 + DuoView 自绘 + STUIStatusBar-native hook),适配 iOS 14+ rootless / roothide 双版本。",
+  "homepage": "https://github.com/muzikeji/DuoStatusBar"
+}
