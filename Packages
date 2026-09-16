@@ -351,13 +351,13 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
 
 Package: com.duo.statusbar
-Version: 2.0.0
+Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: muzikeji <muzi@local>
-Filename: rootless/com.duo.statusbar_2.0.0_iphoneos-arm64.deb
-Size: 50370
-MD5sum: 84474fa8f87187e352036445a51f4709
-SHA256: d48c8d1dc68da890b940315dbfe03700ebc6d654aa83d38ef486f968a2636829
+Filename: rootless/DuoStatusBar_2.1.0_rootless.deb
+Size: 48722
+MD5sum: 8e1193b018a2b1463187d2f5781edbcb
+SHA256: ef5f519add3e41731e7baeb39c3edf404e24758fd98ba997c91a967e705a79c3
 Name: Duo 状态栏
 Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
 Depends: mobilesubstrate (>= 0.9.7000)
@@ -367,13 +367,13 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.duo.statusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/duostatusbar.png
 
 Package: com.duo.statusbar
-Version: 2.0.0
+Version: 2.1.0
 Architecture: iphoneos-arm64e
 Maintainer: muzikeji <muzi@local>
-Filename: roothide/com.duo.statusbar_2.0.0_iphoneos-arm64e.deb
-Size: 50510
-MD5sum: f8ac443fff3297ad2b5d7b1de5b728c6
-SHA256: 611eef8c95e3a23ac1fadccb294b9753fc6b78c6ba8a83102ee9c9e8cc37356a
+Filename: roothide/DuoStatusBar_2.1.0_roothide.deb
+Size: 48744
+MD5sum: c1b1ea8d2e9d5b26db6accce3a6ca46b
+SHA256: 4a24a5ee0cefd007034e156432d39fb4385a2e4506fb07ab4d0e59f3af80d6ce
 Name: Duo 状态栏
 Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
 Depends: mobilesubstrate (>= 0.9.7000)
