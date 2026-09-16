@@ -124,6 +124,38 @@ Section: Tweaks
 Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.duostatusbar.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.duostatusbar.png
 
+Package: com.muzi.duostatusbar
+Version: 2.5.0
+Architecture: iphoneos-arm64
+Maintainer: muzikeji <muzi@local>
+Filename: rootless/com.muzi.duostatusbar_2.5.0_iphoneos-arm64.deb
+Size: 110886
+MD5sum: 9a6ba52a49ee7cc066c6d44b101b72e5
+SHA256: 6792fb8201a61bd56695ff8b07b21becea239e42bbb71e13c8cce136800975e7
+Name: Duo 状态栏
+Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
+Depends: mobilesubstrate (>= 0.9.7000)
+Conflicts: com.34306.duobar
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.duostatusbar.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.duostatusbar.png
+
+Package: com.muzi.duostatusbar
+Version: 2.5.0
+Architecture: iphoneos-arm64e
+Maintainer: muzikeji <muzi@local>
+Filename: roothide/com.muzi.duostatusbar_2.5.0_iphoneos-arm64e.deb
+Size: 110724
+MD5sum: 69dd6ceba2422ccb7143582ff155783c
+SHA256: 219268517ca8960445ac5cd407a9e284ef88a3bac7541c9c3cf38e849da590a0
+Name: Duo 状态栏
+Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
+Depends: mobilesubstrate (>= 0.9.7000)
+Conflicts: com.34306.duobar
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.duostatusbar.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.duostatusbar.png
+
 Package: com.muzi.kayoko
 Version: 4.7.3
 Architecture: iphoneos-arm64
