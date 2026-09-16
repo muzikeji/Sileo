@@ -355,9 +355,9 @@ Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: muzikeji <muzi@local>
 Filename: rootless/com.duo.statusbar_2.1.0_iphoneos-arm64.deb
-Size: 48722
-MD5sum: 8e1193b018a2b1463187d2f5781edbcb
-SHA256: ef5f519add3e41731e7baeb39c3edf404e24758fd98ba997c91a967e705a79c3
+Size: 48704
+MD5sum: 3fd800eaf458e4af2f0c8802fdc77e4a
+SHA256: 3ba6c9cf246832fb51f8478eabab8d1c2b9565c9d446fe34b65e9c6382097d87
 Name: Duo 状态栏
 Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
 Depends: mobilesubstrate (>= 0.9.7000)
@@ -371,9 +371,9 @@ Version: 2.1.0
 Architecture: iphoneos-arm64e
 Maintainer: muzikeji <muzi@local>
 Filename: roothide/com.duo.statusbar_2.1.0_iphoneos-arm64e.deb
-Size: 48744
-MD5sum: c1b1ea8d2e9d5b26db6accce3a6ca46b
-SHA256: 4a24a5ee0cefd007034e156432d39fb4385a2e4506fb07ab4d0e59f3af80d6ce
+Size: 48706
+MD5sum: e389bbe2c72b4d6c86848a907b9fa937
+SHA256: 54721e066b5f56e3bff4ebe01d36e0e4c26dc87b2732b8540a04bf497907b43f
 Name: Duo 状态栏
 Description: 把状态栏的电量、Wi-Fi、信号三件合并为一个环形小组件,致敬 iPhone Duo 外屏。
 Depends: mobilesubstrate (>= 0.9.7000)
