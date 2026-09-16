@@ -354,7 +354,7 @@ Package: com.duo.statusbar
 Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: muzikeji <muzi@local>
-Filename: rootless/DuoStatusBar_2.1.0_rootless.deb
+Filename: rootless/com.duo.statusbar_2.1.0_iphoneos-arm64.deb
 Size: 48722
 MD5sum: 8e1193b018a2b1463187d2f5781edbcb
 SHA256: ef5f519add3e41731e7baeb39c3edf404e24758fd98ba997c91a967e705a79c3
@@ -370,7 +370,7 @@ Package: com.duo.statusbar
 Version: 2.1.0
 Architecture: iphoneos-arm64e
 Maintainer: muzikeji <muzi@local>
-Filename: roothide/DuoStatusBar_2.1.0_roothide.deb
+Filename: roothide/com.duo.statusbar_2.1.0_iphoneos-arm64e.deb
 Size: 48744
 MD5sum: c1b1ea8d2e9d5b26db6accce3a6ca46b
 SHA256: 4a24a5ee0cefd007034e156432d39fb4385a2e4506fb07ab4d0e59f3af80d6ce
