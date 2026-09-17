@@ -1,22 +1,27 @@
-Origin: Muzi Sileo Repo
-Label: Muzi
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: muzi
-Date: Thu, 17 Sep 2026 02:23:54 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi package repository
-
+Description: 木子源越狱软件包
+Date: Thu, 17 Sep 2026 02:28:58 GMT
 MD5Sum:
- bfc2790b3afa97e0ff240a147e9c11d4 124098 Packages
- 101010daefc104e2b9cc3dc92ebfd2e9 11318 Packages.gz
- 894b844790f4bd1400787c70a267d1c6 10075 Packages.bz2
- ba43f5ab0d4b579f2c4abb456b2f39f2 9324 Packages.xz
- 192433f44a8502ca4fb56919fc996cc2 10239 Packages.zst
-SHA256:
- 5cc191970d92785ef9b9149645033a35e72d423d5d20a180879818b464cab643 124098 Packages
- f5abbe8daac78a9c13eb62f4b92bb453b19eda51791b00e6d7bf977338a269ca 11318 Packages.gz
- 1949798164a372feb53559fac6085262c13ab62c01ea6f95669baaa3fd566ee4 10075 Packages.bz2
- d92cf489837d9962f90d77220de1aafb10d6726826da3f26cfacabc1b39693d0 9324 Packages.xz
- 33ca7dbe543267f11853ca2ca8084cfb278ad9ad77ca2c5fd94debb637a79cc0 10239 Packages.zst
+  5c35548f06f9be7985f4f2d15ed875eb 126824 Packages
+  8e02abd86462fe19a40dd5b43cce4e30 11516 Packages.gz
+  8686100261aeeaf7cadfb07f36d4b4b9 10239 Packages.bz2
+  f4f6d9647ea9de97a545093d8bfda24b 9448 Packages.xz
+  0306fb5a53c14cd2c906a9aa480102ba 9707 Packages.zst
+SHA1:
+  7bb6499082227368ebb97b11e4ad253cb97e3d94 126824 Packages
+  f9b42b778f2e5e956f6f5b07b834fc3a98c40fb7 11516 Packages.gz
+  8094474e6d78ce861080546a1f7ae5d7ba2432b6 10239 Packages.bz2
+  e05991159c933c794df392343dbbf42a4b4420bd 9448 Packages.xz
+  fd7917233d798e1ac800212c10a412cad6089cd1 9707 Packages.zst
+SHA256Sum:
+  9799ec94d0a27798107af72ddcba37b6565b7970bc5cd07f8ffcefbe1964505f 126824 Packages
+  b35fd3a812ad9e9619cd15adbf2e957b2bee6bc19025bdd93e14aafb32a9a4e5 11516 Packages.gz
+  d9d69385d83f580f3d5a6266bbf8a81ffb7e20722c9a32d3ea36ae277e53bbd6 10239 Packages.bz2
+  ae40d723d27721d5f42a261d42372b54d43c5bffa5b668c0c6e85b6572c23846 9448 Packages.xz
+  877e182cc2df7e5903403ad82a725d3c4af8a6e40328dbb581e336f360763119 9707 Packages.zst
