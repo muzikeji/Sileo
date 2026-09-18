@@ -56,7 +56,7 @@
     },
     {
       "tabName": "更新日志",
-      "content": "#### 版本: 1.9.38\n\n- 通话录音列表（B+C 方案）：通话记录页录音按钮点击进入独立列表页，设置页同时新增独立入口（按联系人/号码分组，方向/时长/大小/日期）\n- 列表支持左滑删除（带二次确认 alert）+ AirDrop/系统分享面板\n- 录音删除 / 重命名 / 新建后自动通过 Darwin notify 跨进程通知列表刷新\n- 联系人反查：通过 CNContactStore 缓存 last 11 digits 匹配（runtime selector 探测 iOS 13+ API）\n- 录音按钮 tap 改为 push（取代旧 UIMenu），按号码过滤；非 UINavigationController 场景自动包 FormSheet\n"
+      "content": "#### 版本: 1.9.39\n\n- 紧急修复：iOS 17.0 设置页「通话与录音」分区点击即闪退\n- 根因：1.9.38 录音列表入口按钮用了 MUtoolActionCell + iconImage/iconTintColor 组合，iOS 17.0 PSTableCell.refreshCellContentsWithSpecifier → setIcon: 链路在该组合下触发 ___forwarding___ 异常，系统设置进程 abort\n- 修复：将 cellClass 改为 MUtoolQuickActionCell（与 1.9.37 SIM 子页 setDataBtn 一致，已在 iOS 17.0 验证稳定）；功能不变\n\n#### 版本: 1.9.38\n\n- 通话录音列表（B+C 方案）：通话记录页录音按钮点击进入独立列表页，设置页同时新增独立入口（按联系人/号码分组，方向/时长/大小/日期）\n- 列表支持左滑删除（带二次确认 alert）+ AirDrop/系统分享面板\n- 录音删除 / 重命名 / 新建后自动通过 Darwin notify 跨进程通知列表刷新\n- 联系人反查：通过 CNContactStore 缓存 last 11 digits 匹配（runtime selector 探测 iOS 13+ API）\n- 录音按钮 tap 改为 push（取代旧 UIMenu），按号码过滤；非 UINavigationController 场景自动包 FormSheet\n"
     }
   ]
 }
