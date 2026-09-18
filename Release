@@ -6,7 +6,7 @@ Codename: muzi
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 木子源越狱软件包
-Date: Fri, 18 Sep 2026 02:36:25 GMT
+Date: Fri, 18 Sep 2026 13:48:09 UTC
 MD5Sum:
   c8d90ef74f0440918db81458271a848c 145906 Packages
   f5700e8ac1ef865972249aa71a3ed6bb 12685 Packages.gz
@@ -25,3 +25,15 @@ SHA256Sum:
   c3cca7b7c1790b4b835b5a3e2659e2643f9e310f1c0c2245a877eb9d62d919cd 11099 Packages.bz2
   d61ebe0324bb5bc292f4b02fffa539e50c605bcbf40a39185ba66555805e6682 10348 Packages.xz
   939d303bb971edb9644572a79fd5b5bbd8489e1d0d72ebccc62300f86ed4c55c 10612 Packages.zst
+SHA256-com.muzi.mutool_1.9.37_iphoneos-arm64.deb: 0f39b5997ed3a65dd9d07da0d99dae7dd1468b8afd999abad65fe6d0b320ff7b
+Size-com.muzi.mutool_1.9.37_iphoneos-arm64.deb: 482398
+SHA256-com.muzi.mutool_1.9.37_iphoneos-arm64e.deb: 238223b9fbfad0cd0086a46d632322fdc0decf431721f405452d1dcf5abecee7
+Size-com.muzi.mutool_1.9.37_iphoneos-arm64e.deb: 478126
+SHA256-Packages: 69d1d65c73c9efa6de224f706f35ae9ccaeee5f19139f3605da1f0c817810378
+Size-Packages: 148632
+SHA256-Packages.gz: 5a77993eb1fb3c683f3f00afb399f8aa1126f2674d28a40d95725497e5a480d5
+Size-Packages.gz: 12806
+SHA256-Packages.bz2: e0f5cd909c29daff7d39ed61b074c37531dc7614214683da005f52f3a643c9c6
+Size-Packages.bz2: 11252
+SHA256-Packages.zst: 8eee2fb7fbdde9404b081526ca78c2de31a5de21ba413b35dee8d18616457867
+Size-Packages.zst: 12425
