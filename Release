@@ -1,22 +1,28 @@
-Origin: Muzi Sileo Repo
-Label: Muzi
+Origin: 木子源
+Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: muzi
-Date: Sat, 19 Sep 2026 10:04:46 +0000
+Date: Sat, 19 Sep 2026 10:16:20 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi package repository
+Description: 木子源越狱软件包
 
 MD5Sum:
- feda58941f48bec615dc7ab643ae5700 206144 Packages
- 93f35d5828acf9a7912a182f2225aeaf 16509 Packages.gz
- 7967d7b7fec2d41a60441c816acb1e52 14169 Packages.bz2
- b6ff6d68a299cc5a768e392a1d945b85 13424 Packages.xz
- 74f7347295e70e884d990407e6c91642 16061 Packages.zst
-SHA256:
- cf00374e0386aecbc2c52605d58db826a3df73f2e3fde8b9cd5e89f0d3a35f69 206144 Packages
- 493c49b59deb4ebbb901e991d73680f719d4bcc63666fb3a937c1631aa20c3c9 16509 Packages.gz
- ee90dca452854320bd1dce6252d195c6be14e105bbd08a327c693f48ee6a81dc 14169 Packages.bz2
- c094a22ae9dd5c3487f37efc76ecf0ac0c096ac01a9771e2d51048d6dd186823 13424 Packages.xz
- 11f579679ddc29fbb94fb1c32dd68bbbf326c65ccac7b9661815dc1b61840326 16061 Packages.zst
+ 9d8e79e60c7be4b7e39350b7efa52628 208851 Packages
+ 11039a608ef5603fe99ec2f6ec323335 16694 Packages.gz
+ 5b4b195220f0a7b0221a7538340aca62 14325 Packages.bz2
+ acb012d1799babeba574d32e73f12a60 13576 Packages.xz
+ d3c10c411294ec59247a08e79d864296 16257 Packages.zst
+SHA1:
+ c481616adc5fcdd50815c37edc3087b1f093d2dc 208851 Packages
+ 9c409c744c18e228eefe49a7fed535deef8fa1a7 16694 Packages.gz
+ 477dda58cd9e8c9f1743a06292fbefad02a81d8b 14325 Packages.bz2
+ 55d3f65ded74e701a23510f213bf238aa449e3f0 13576 Packages.xz
+ ef5a920abeb1d8b4a72ec78e6c0997ee650d349b 16257 Packages.zst
+SHA256Sum:
+ db3b143ca47981471828c94ba6e9c7f9151702873f071bf07e475ea98a80cf69 208851 Packages
+ cc874027ba17023675051ad7dd22bb17a4915d4501ea3d07de374a246f0bdd60 16694 Packages.gz
+ 6c85167fd796ebb5a48f157d9f91bb899c5f324fc5ab0cc7a5ca74f5170784ad 14325 Packages.bz2
+ 40202ccc8b847d37a80bab3bfb0a41169164a86817a775db32aae53ec4b96953 13576 Packages.xz
+ ebfb92160a1c479bdeb324dd122f09a75fcde81f6262f8152221ed1dbfbe3e58 16257 Packages.zst
