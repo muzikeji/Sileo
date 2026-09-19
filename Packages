@@ -1957,6 +1957,38 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
 
 Package: com.muzi.mutool
+Version: 1.9.48
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_1.9.48_iphoneos-arm64.deb
+Size: 525028
+MD5sum: 08a2a1ba65c39881818880cdb4796ae5
+SHA256: 29d0566517ea7448602e60714df7d0f90c292c21d189121e8e79aab5e2fcdc84
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息、通话录音列表（设置页独立入口按联系人/号码分组，单击行弹出 AVPlayer 播放面板，完整元数据 + 快进/快退/暂停/分享/删除）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.48
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_1.9.48_iphoneos-arm64e.deb
+Size: 518490
+MD5sum: 4af58782d0903f409ab02f5baba5f5f8
+SHA256: 400c6f8c15280536b8976df103f5ba7001600ed4d013d0b7719224f7d8dfe432
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息、通话录音列表（设置页独立入口按联系人/号码分组，单击行弹出 AVPlayer 播放面板，完整元数据 + 快进/快退/暂停/分享/删除）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
 Version: 1.9.37
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
