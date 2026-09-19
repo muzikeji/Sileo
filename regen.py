@@ -10,7 +10,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path('/tmp/opencode/Sileo')
+ROOT = Path(__file__).resolve().parent
 ROOTLESS = ROOT / 'rootless'
 ROOTHIDE = ROOT / 'roothide'
 ICON_URL = 'https://muzikeji.github.io/Sileo/icons'

@@ -1,0 +1,58 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "tintColor": "#FF9500",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## CPU 解除温控\n适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，固定解除温控模式，支持 CPU/GPU/Package 温控旁路、ProMotion 120Hz 与 ThermalMonitor 一键挂载优化。\n\n- 屏蔽全屏「iPhone 需要冷却」警告与高温强制锁屏\n- 防温控暗屏，亮度上限锁定本机最高值\n- 保持高频档位，减少短任务升频等待\n- 设备朝下自动锁屏\n- 锁定阳光暴晒（Sunlight）模式\n- 屏蔽部件与维修记录，可选模拟最大容量 100%\n- SmartBatteryAPI 智能停充（阈值与禁流可配）\n- 强制 120Hz（仅 ProMotion 机型）\n- ThermalMonitor 可读写挂载管理\n\n适配 rootless 与 roothide 无根越狱环境。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "信息",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Huayuarc",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.6.2-90",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15.0+",
+                    "title": "支持的系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026年09月19日",
+                    "title": "更新日期"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "markdown": "#### 版本: 1.6.2-90\n- 适配 iOS 15-17，注入 thermalmonitord 固定解除温控\n- 支持 CPU/GPU/Package 温控旁路、防暗屏、强制 120Hz\n- 智能停充、部件记录屏蔽、ThermalMonitor 挂载管理\n- 同时提供 rootless 与 roothide 包",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ]
+}
