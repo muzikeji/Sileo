@@ -1925,6 +1925,38 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
 
 Package: com.muzi.mutool
+Version: 1.9.47
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_1.9.47_iphoneos-arm64.deb
+Size: 524696
+MD5sum: a9096523e6b37d07222ba6db6838721f
+SHA256: 11ad1865969d58eb85ac0d14d96366f715ba74abda79dfabee8998bdc479e628
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息、通话录音列表（设置页独立入口按联系人/号码分组，1.9.47 单击行弹出 AVPlayer 播放面板，完整元数据 + 快进/快退/暂停/分享/删除，右上角「完成」关闭弹窗）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.47
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_1.9.47_iphoneos-arm64e.deb
+Size: 518156
+MD5sum: 8aa6b08de9194581d60c3fe7c655e091
+SHA256: 6f93e4c8604f68217012190bd8444c0090ed21e1162336a0521eec88c857db65
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息、通话录音列表（设置页独立入口按联系人/号码分组，1.9.47 单击行弹出 AVPlayer 播放面板，完整元数据 + 快进/快退/暂停/分享/删除，右上角「完成」关闭弹窗）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
 Version: 1.9.37
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
