@@ -2587,6 +2587,38 @@ Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
 Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
 
 Package: com.muzi.mutool
+Version: 1.9.64
+Architecture: iphoneos-arm64
+Maintainer: Muzi
+Filename: rootless/com.muzi.mutool_1.9.64_iphoneos-arm64.deb
+Size: 539904
+MD5sum: a386dc32cf34e60f8c1955f6be25a736
+SHA256: 2b73c3706be65fed1c27053e713a3f748d95db21bbdec0bf10027eb77c61ad93
+Name: MUtool(rootless)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
+Version: 1.9.64
+Architecture: iphoneos-arm64e
+Maintainer: Muzi
+Filename: roothide/com.muzi.mutool_1.9.64_iphoneos-arm64e.deb
+Size: 538094
+MD5sum: 8b8d8fd7ba8bd49ff4f5d2c23d321250
+SHA256: eef9d72713f4c60e0863d65fbbf2843d08ac4189bb96d0329fde3689cae6133c
+Name: MUtool(roothide)
+Description: 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，真机机型贴合挖孔展开，锁屏充电常驻大字电量/预计充满）、定时任务、自动禁用 SIM 与卡槽管理 / IPCC 运营商配置、充电提示音与 MagSafe 动画、充电限制（限充阈值、阻止充电、智能计划）、温控（阻止降频、CPU 功率锁定、模拟降频）、锁屏增强（自动进桌面、通知亮屏、隐藏与禁用）、录音与录屏增强（通话自动录音、录屏取消 DRM 静音、锁屏继续录制、录屏录制通话声音）、桌面悬浮信息药丸（实时网速 / CPU / 内存 / 时间 / 电池电量，Liquid Glass 风格，透明度与字号可调，拖动持久化，锁屏自动隐藏）、电池健康与深度信息
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.muzi.mutoollite
+Section: Tweaks
+Depiction: https://muzikeji.github.io/Sileo/depictions/com.muzi.mutool.json
+Icon: https://muzikeji.github.io/Sileo/icons/com.muzi.mutool.png
+
+Package: com.muzi.mutool
 Version: 1.9.7
 Architecture: iphoneos-arm64
 Maintainer: Muzi
