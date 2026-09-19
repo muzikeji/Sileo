@@ -3,37 +3,26 @@ Label: 木子源
 Suite: stable
 Version: 1.0
 Codename: muzi
+Date: Sat, 19 Sep 2026 09:25:50 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 木子源越狱软件包
-Date: Fri, 18 Sep 2026 13:48:09 UTC
+
 MD5Sum:
-  c8d90ef74f0440918db81458271a848c 145906 Packages
-  f5700e8ac1ef865972249aa71a3ed6bb 12685 Packages.gz
-  51c0463ce5f7d6f62692c6dd1b718946 11099 Packages.bz2
-  d65fc0dd80b93a4257043dc82e888beb 10348 Packages.xz
-  a5cee5611b6c0b3893a8cf8adcd09e53 10612 Packages.zst
+ 09521e7fcf92db82a7d56fe0d6490ed5 204568 Packages
+ 79986fbe30eb9de829c87aa5bbe17a89 16466 Packages.gz
+ ceccaac84d081e6e493ce67fda9ddb79 14054 Packages.bz2
+ 822261b561a65cfe367fd9728299bebc 13436 Packages.xz
+ 8a7fe6607218387099033feed5e5678f 16054 Packages.zst
 SHA1:
-  e4e58e85edc0aa18a6ac036c1c662a91f7c955d7 145906 Packages
-  87d2eb4162d5fe4de22beeb97d40cd13ca54df12 12685 Packages.gz
-  5fd71f3a6f78e20776744feadbb75e403a346215 11099 Packages.bz2
-  21d73dae3bc8de65b97cdfd6230da355dc7cedad 10348 Packages.xz
-  4b5375b3288ad3f1480abec7e6d3284b667622b1 10612 Packages.zst
+ 4b8c81803ef5492281c45d8f4123b87e2f38e3cb 204568 Packages
+ 664a15421e7691b49b50c75b4a76ed636dc96cec 16466 Packages.gz
+ bb0505f68c27ef6a377bbaf5d3469cc811167f06 14054 Packages.bz2
+ 43f6b4d01434714db77c8167b0571f5a102b1208 13436 Packages.xz
+ 469ba1fd0dca04f97973a799beb0ee6d4f7f5d23 16054 Packages.zst
 SHA256Sum:
-  962065ed092996aa157d15e713b36602ba8cd27a555f63be3411b817b24464e2 145906 Packages
-  a628ffadf1188a4f359af07cc631cb2b7190b50c9f55910169b085a0df71b606 12685 Packages.gz
-  c3cca7b7c1790b4b835b5a3e2659e2643f9e310f1c0c2245a877eb9d62d919cd 11099 Packages.bz2
-  d61ebe0324bb5bc292f4b02fffa539e50c605bcbf40a39185ba66555805e6682 10348 Packages.xz
-  939d303bb971edb9644572a79fd5b5bbd8489e1d0d72ebccc62300f86ed4c55c 10612 Packages.zst
-SHA256-com.muzi.mutool_1.9.37_iphoneos-arm64.deb: 0f39b5997ed3a65dd9d07da0d99dae7dd1468b8afd999abad65fe6d0b320ff7b
-Size-com.muzi.mutool_1.9.37_iphoneos-arm64.deb: 482398
-SHA256-com.muzi.mutool_1.9.37_iphoneos-arm64e.deb: 238223b9fbfad0cd0086a46d632322fdc0decf431721f405452d1dcf5abecee7
-Size-com.muzi.mutool_1.9.37_iphoneos-arm64e.deb: 478126
-SHA256-Packages: 69d1d65c73c9efa6de224f706f35ae9ccaeee5f19139f3605da1f0c817810378
-Size-Packages: 148632
-SHA256-Packages.gz: 5a77993eb1fb3c683f3f00afb399f8aa1126f2674d28a40d95725497e5a480d5
-Size-Packages.gz: 12806
-SHA256-Packages.bz2: e0f5cd909c29daff7d39ed61b074c37531dc7614214683da005f52f3a643c9c6
-Size-Packages.bz2: 11252
-SHA256-Packages.zst: 8eee2fb7fbdde9404b081526ca78c2de31a5de21ba413b35dee8d18616457867
-Size-Packages.zst: 12425
+ f71a8c59c10cb8730775a6509dda692b5ccfed2a63e5a2403910ed1138e7f7cc 204568 Packages
+ 35db40a1b676fb4cf0f5d998d6c0d0c2278026d5f5a63afe848014094fc3a583 16466 Packages.gz
+ d75deb29d99e9616865fca26a2d2016f0cca6e9c3d1ea24cd2dd3142797667b4 14054 Packages.bz2
+ 503533789e23fed3c24f1ac6f7d4c61d5070e2acc462a11b5150f1e07715881f 13436 Packages.xz
+ a8f91f0ad28ce28029b104ad140257fb47c60ba49f7d7038c3f3cf851de12fca 16054 Packages.zst
