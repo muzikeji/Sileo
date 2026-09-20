@@ -1,22 +1,14 @@
-Origin: Muzi Sileo Repo
-Label: Muzi
+Origin: Muzikeji
+Label: Muzikeji
 Suite: stable
 Version: 1.0
-Codename: muzi
-Date: Sun, 20 Sep 2026 11:54:24 +0000
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Codename: muzikeji
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Muzi package repository
-
-MD5Sum:
- 6efa5feaf12e04bbd26ec58cd5f30125 233404 Packages
- 62284bccfec7547ab7e6c3b860f2e272 18138 Packages.gz
- 5f473ec7eb06d87853b95c900aefb5a1 15362 Packages.bz2
- a4a4ed1b9cf4e8901366e10ee70a8133 14712 Packages.xz
- cdbf1294cc8c3fe25d05f1c49e4432eb 17611 Packages.zst
-SHA256:
- 7de33b0293118120c9f2c4926f8aaab39678da069186fb42d5dc0b45ec572661 233404 Packages
- 89f3fa29f6d35885f460aafb660d63bc5a5c97ea4e1bcec63f95f0066946abe9 18138 Packages.gz
- b9d59507d7dcfb18634abf2d787e24049cf58dbd123610fefa8cdfcb1af7e4b9 15362 Packages.bz2
- 260a636e4735bb34572bf5f36db21d280d11bed56ee09166a28c58007f953b48 14712 Packages.xz
- d693f52db56c07fa9ae51f09eafd7184d0f52490c2bad2ca3929112c62ca4dff 17611 Packages.zst
+Description: Muzikeji repo
+Date: Sun, 20 Sep 2026 14:00:09 UTC
+ Packages 249381 c9898f8ef4811179bda2e91a77c4cf84 4c22e849194e10302f5a8335d7b46e8cfb4d600c 48cde87996b413f2a122dd532e7b680ab09413f36c9b70444778635cae09557e
+ Packages.bz2 20273 49363c6d0dd5b54d7fc2a3ad6bfb50fe 6175f039622f184a5652d70d780b9eb4ad1f6c21 fe12bf491da96a8820addf28a11bf1fb204d9b916fe0adaef41a4d9103763644
+ Packages.gz 25506 1246fa1c1262d7735a230133355690ca b1224e3830c01c9e7fd54a994ac38e406b721bdd 9ccc04586b25f3daee3844b091d75b13dd359313bca70e992712b2fa6d07a9f7
+ Packages.xz 19556 d7486fd10dfbaca1f4f5a1bdbdfba8f4 c67037dbf671ed61dbe191a07672f5d7e8a45318 ddba7ae300b7393b6e9f21eba10307a992ac6c82e40043003ee3e4782f969eaf
+ Packages.zst 23225 9cf2e0b0a2a1e6e9f558d43c5736ed97 99e33a012e92622403a39b1c05bcc05b28e2a10a 058051a12355b6aa3b66506ff92eba802ee37b611260c86293983d55f453cf3e
