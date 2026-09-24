@@ -3,20 +3,20 @@ Label: Muzi
 Suite: stable
 Version: 1.0
 Codename: muzi
-Date: Wed, 23 Sep 2026 23:59:49 +0000
+Date: Thu, 24 Sep 2026 10:01:57 +0000
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Muzi package repository
 
 MD5Sum:
- 1d0774bc5d5fa3e1c753f89bc0c71651 283512 Packages
- 4dba7be732d05703162511addfaffaa8 21283 Packages.gz
- 27869dd59aa0237536495d7ced1b4171 17878 Packages.bz2
- 28581309fce7f39bebd35fedc54ec16e 17040 Packages.xz
- 7cf52a054406a9d827e9ec167fc2c2d7 18980 Packages.zst
+ fc9755fea386a1cb1149331e0f4f7854 286494 Packages
+ 8bef27ab521ef9809a68fd56a00a2c14 21481 Packages.gz
+ 1c233d25f6c11d1bcecb5f4e363f4730 17977 Packages.bz2
+ 74b8c97d11954095b729d5cf0308d88a 17204 Packages.xz
+ 349f9e5977f382882a8aed1c9e95a8af 19189 Packages.zst
 SHA256:
- 839f17aaadcbf5e8963a2400bb4f9063a5bd88e041540eb4baf1af18bd75a552 283512 Packages
- df9aa4eaca4e8708b3461bd2ddaf199196698b40424a40a650b58ef9b0bf3e52 21283 Packages.gz
- 632cef722ba77ff810b3135f2a61a7d84283e2f7d192b24bc091b5a7fc45fb90 17878 Packages.bz2
- c80c16fa61646d5846d29e6f4b01cea095469788dad3ec7e6182a83bffb647f0 17040 Packages.xz
- 58e66d9afdace1bd3cb6966bc13c9c5587a7e7dd9509e2e73fa9f48104d9858e 18980 Packages.zst
+ 3903b9b411a3a775a79ae86ebaaef519ad74d91120e181399b039732aa76ffb7 286494 Packages
+ 768646faf0b3b5a0d54e56ac87d1cac1115da48567d703a040f8d5ef9d7471ce 21481 Packages.gz
+ 5f7907d9ed7b13dca2424a25db701dcc987280a5b9fff496450ffe30fa515634 17977 Packages.bz2
+ 65ef26dcbe2fc03d563e24c7de6d0fd653ea32e247916fe31b59069490b6f027 17204 Packages.xz
+ d4cf17a805fe3b4f78a9330e8ba1a22962c22e0734a0b41ae2fd6de1ee667d8e 19189 Packages.zst
