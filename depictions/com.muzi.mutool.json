@@ -2,7 +2,7 @@
   "class": "DepictionTabView",
   "minVersion": "0.3",
   "tintColor": "#3478F6",
-  "headerImage": "https://muzikeji.github.io/Sileo/depictions/images/mutool-banner.png",
+  "headerImage": "https://muzikeji.github.io/sileo/depictions/images/mutool-banner.png",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionImageView",
-          "imageURL": "https://muzikeji.github.io/Sileo/depictions/images/mutool-banner.png",
+          "imageURL": "https://muzikeji.github.io/sileo/depictions/images/mutool-banner.png",
           "altText": "MUtool 多功能工具集",
           "cornerRadius": 12,
           "useMargins": true

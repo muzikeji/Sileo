@@ -13,8 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 ROOTLESS = ROOT / 'rootless'
 ROOTHIDE = ROOT / 'roothide'
-ICON_URL = 'https://muzikeji.github.io/Sileo/icons'
-DEPICTION_URL = 'https://muzikeji.github.io/Sileo/depictions'
+ICON_URL = 'https://muzikeji.github.io/sileo/icons'
+DEPICTION_URL = 'https://muzikeji.github.io/sileo/depictions'
 
 
 def parse_control(deb_path):
